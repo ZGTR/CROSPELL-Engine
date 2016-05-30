@@ -1,0 +1,318 @@
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ExpressionDark.baml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.baml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.baml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.g.cs
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp_MarkupCompile.cache
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.g.resources
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.Properties.Resources.resources
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\bin\Debug\DynamicDataDisplay.dll
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\bin\Debug\DynamicDataDisplay.resources.dll
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.baml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.g.cs
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_PorterAlgorithm.dll
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_PorterAlgorithm.pdb
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\bin\Debug\ISRI algorithm.exe
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\bin\Debug\ISRI algorithm.pdb
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\bin\Debug\DynamicDataDisplay.dll
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\bin\Debug\DynamicDataDisplay.resources.dll
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\bin\Debug\ISRI algorithm.exe
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_PorterAlgorithm.dll
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\bin\Debug\ISRI algorithm.pdb
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_PorterAlgorithm.pdb
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ExpressionDark.baml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.baml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.baml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.baml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.g.cs
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.g.cs
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp_MarkupCompile.cache
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.g.resources
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.Properties.Resources.resources
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\bin\Debug\ISRI algorithm.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_PorterAlgorithm.dll
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\bin\Debug\ISRI algorithm.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_PorterAlgorithm.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ExpressionDark.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp_MarkupCompile.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.g.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.Properties.Resources.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ExpressionDark.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp_MarkupCompile.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.g.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.Properties.Resources.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\bin\Debug\ISRI algorithm.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_PorterAlgorithm.dll
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\bin\Debug\ISRI algorithm.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_PorterAlgorithm.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ExpressionDark.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp_MarkupCompile.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.g.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.Properties.Resources.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ExpressionDark.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp_MarkupCompile.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.g.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.Properties.Resources.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ExpressionDark.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp_MarkupCompile.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.g.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.Properties.Resources.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ExpressionDark.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp_MarkupCompile.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.g.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.Properties.Resources.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\TextEngineTabs\SpellCheckMe\CyberTextWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\TextEngineTabs\SpellCheckMe\CyberTextWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ExpressionDark.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\TextEngineTabs\SpellCheckMe\CyberTextWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\TextEngineTabs\SpellCheckMe\CyberTextWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp_MarkupCompile.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.g.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.Properties.Resources.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ExpressionDark.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\TextEngineTabs\SpellCheckMe\CyberTextWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\TextEngineTabs\SpellCheckMe\CyberTextWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp_MarkupCompile.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.g.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.Properties.Resources.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ExpressionDark.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\TextEngineTabs\SpellCheckMe\CyberTextWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.baml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\TextEngineTabs\SpellCheckMe\CyberTextWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.g.cs
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp_MarkupCompile.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.g.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.Properties.Resources.resources
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.exe
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.pdb
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\bin\Debug\MathNet.Numerics.dll
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.csprojResolveAssemblyReference.cache
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ExpressionDark.baml
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.baml
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.baml
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\TextEngineTabs\SpellCheckMe\CyberTextWindow.baml
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.baml
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.baml
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.g.cs
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ImageEngine\ImagePatchWindow.g.cs
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\TextEngineTabs\SpellCheckMe\CyberTextWindow.g.cs
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.g.cs
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.g.cs
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp_MarkupCompile.cache
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.g.resources
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.Properties.Resources.resources
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerApp.csproj.GenerateResource.Cache

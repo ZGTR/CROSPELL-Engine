@@ -1,0 +1,17 @@
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_SpellingCheckerWPFApp.exe
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\bin\Debug\ZGTR_SpellingCheckerWPFApp.pdb
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.baml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.g.cs
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_SpellingCheckerWPFApp_MarkupCompile.cache
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_SpellingCheckerWPFApp.g.resources
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_SpellingCheckerWPFApp.Properties.Resources.resources
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_SpellingCheckerWPFApp.exe
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ZGTR_SpellingCheckerWPFApp.pdb
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\ExpressionDark.baml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\App.baml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ColorTableClasses\ColorTableWindow.baml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\ZGTR_SpellingCheckerWPFApp\obj\x86\Debug\GUIControllers\ColorTableClasses\ColorTableWindow.g.cs

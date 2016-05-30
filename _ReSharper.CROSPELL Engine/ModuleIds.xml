@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC" ModuleId="ZGTR_CROSPELLSpellingCheckerApp" />
+  <Module PersistentId="FAFEE9CE-E92A-420A-9FE3-F2AF11728795" ModuleId="ZGTR_CROSPELLSpellingCheckerLib" />
+  <Module PersistentId="82BD4053-33CF-4615-B826-063B2450187C" ModuleId="ZGTR_PorterAlgorithm" />
+  <Module PersistentId="A87F0DCF-0611-4DE1-97B9-CB37F0612CDC" ModuleId="ISRI algorithm" />
+</Modules>

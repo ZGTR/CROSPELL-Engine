@@ -1,0 +1,122 @@
+1	0	true#a#2 real#a#4
+1	0	illustrious#a#1 famous#a#1 far-famed#a#1 noted#a#1 celebrated#a#1 notable#a#2 renowned#a#1 famed#a#1
+0.5	0	real#a#6 tangible#a#2
+0.25	0	existent#a#2 real#a#1
+0.125	0.125	real#a#2
+0	0	real#a#7
+0	0	real#a#11
+0	0	veridical#a#1 real#a#10
+0.75	0	hardy#a#1 sturdy#a#1 stalwart#a#1 stout#a#3
+0	0.5	real#a#5
+0	0	real#a#9
+0.25	0.25	real#a#3 literal#a#1 actual#a#3 genuine#a#3
+0	1	cynical#a#1 misanthropical#a#1 misanthropic#a#1
+0	0	semantic#a#1
+0	0	imperative#a#2
+0.75	0	able#a#3
+0	1	gloomy#a#2 drab#a#3 drear#a#1 dreary#a#1 dingy#a#3 sorry#a#6 dismal#a#1
+0	0.25	drab#a#2 sombre#a#2 sober#a#3 somber#a#2
+1	0	capable#a#5 able#a#2
+0	0	substantial#a#3 material#a#6 real#a#8
+0.5	0	sturdy#a#2 tough#a#4
+0	0.25	imperative#a#1
+0	1	dreary#a#2 drab#a#1
+1	0	able#a#4 able-bodied#a#1
+0	0	inflexible#a#3
+0.375	0.375	inflexible#a#1
+0.375	0.375	inflexible#a#2 uncompromising#a#1
+0	1	unbending#a#1 rigid#a#3 inflexible#a#4
+0	0	demand#n#4
+0	0.5	imperative#n#2
+0	0	real#n#2
+0	0	demand#n#1
+0	0	boot#n#6 kick#n#1 kicking#n#2
+0	0	real#n#1 real_number#n#1
+0	0	jussive_mood#n#1 imperative#n#1 imperative_mood#n#1
+0.25	0.25	thing#n#1
+0	1	guiltiness#n#1 guilt#n#1
+0	0.5	demand#n#3 need#n#1
+0	1	cause_of_death#n#1 killer#n#2
+0	0	monitor#n#7 varan#n#1 monitor_lizard#n#1
+0	0	orcinus_orca#n#1 orca#n#1 killer_whale#n#1 sea_wolf#n#1 killer#n#4 grampus#n#1
+0	0	thing#n#12
+0	0	boot#n#1
+0	0	boot#n#2
+0	0.5	boot#n#5 iron_boot#n#1 iron_heel#n#1
+0	0	boot#n#4
+0.25	0.25	thing#n#2
+0	0	torch#n#3 flashlight#n#1
+0	0	monitor#n#6
+0	0	monitor#n#5
+0	0	monitor#n#1 monitoring_device#n#1
+0	0.5	monitor#n#4
+0	0	thing#n#3
+0	0	thing#n#9
+0	0	thing#n#6
+0	1	selfishness#n#1
+0	0.75	abandon#n#1 wantonness#n#1 unconstraint#n#1
+0	0	tang#n#2 piquancy#n#1 tanginess#n#1 zest#n#2 piquance#n#1 nip#n#3
+0	0	affair#n#1 matter#n#2 thing#n#8
+0.5	0	curiosity#n#1 wonder#n#3
+0	1	killer#n#3
+0	0	thing#n#7
+0	0.25	demand#n#5 requirement#n#1
+0	0	thing#n#10
+0	0	thing#n#5
+0	0.75	demand#n#2
+1	0	marvel#n#1 wonder#n#2
+0.125	0.125	thing#n#4
+0	0	thumping#n#1 thump#n#1 clunk#n#1 clump#n#3 thud#n#1
+0	0	yelping#n#1 yelp#n#1
+0.375	0.375	thing#n#11
+0.375	0.375	wildness#n#1 abandon#n#2
+1	0	gusto#n#1 zestfulness#n#1 relish#n#1 zest#n#1
+1	0	admiration#n#2 wonderment#n#1 wonder#n#1
+1	0	flush#n#5 rush#n#5 bang#n#4 boot#n#3 thrill#n#1 charge#n#13 kick#n#2
+0	1	guilt_trip#n#1 guilt#n#2 guilty_conscience#n#1 guilt_feelings#n#1
+0.25	0	monitor#n#3 reminder#n#3 admonisher#n#1
+0	1	slayer#n#1 killer#n#1
+0	0	proctor#n#1 monitor#n#2
+0	0	able#a#1
+0	0	rattling#r#1 very#r#1 real#r#1 really#r#4
+0	0	yip#v#1 yap#v#1 yelp#v#1
+0	0.5	demand#v#5
+0	0.5	demand#v#4
+0	0	thud#v#2
+0	0	boot#v#1
+1	0	yearn#v#3
+0	0.75	yearn#v#2 languish#v#2 ache#v#2 yen#v#1 pine#v#1
+0.375	0.375	hanker#v#1 long#v#1 yearn#v#1
+0	0	empty#v#3 vacate#v#2 abandon#v#4
+0.125	0.125	monitor#v#1 supervise#v#2 ride_herd_on#v#1
+0	0	thud#v#1 thump#v#2
+0	0	crump#v#1 scrunch#v#1 thud#v#3
+0	0	spice#v#2 spice_up#v#1 zest#v#1
+0	0.25	give_up#v#2 abandon#v#3
+0	0	abandon#v#1
+0.125	0.125	ask#v#7 call_for#v#2 involve#v#4 demand#v#2 postulate#v#3 take#v#9 need#v#1 necessitate#v#1 require#v#1
+0	1	perplex#v#2 complicate#v#1
+0	0.25	abandon#v#2 give_up#v#10
+0	1	abandon#v#5 forsake#v#1 desolate#v#1 desert#v#1
+0	0.75	amaze#v#2 puzzle#v#1 dumbfound#v#1 vex#v#5 pose#v#6 get#v#33 baffle#v#1 perplex#v#1 flummox#v#1 stupefy#v#2 gravel#v#3 beat#v#22 nonplus#v#1 bewilder#v#1 mystify#v#1 stick#v#17
+0.25	0	inquire#v#2 wonder#v#1 enquire#v#3
+0	0.75	demand#v#1
+0	0	talk_terms#v#1 negociate#v#6 negotiate#v#1
+0.5	0	win_over#v#1 convince#v#1 convert#v#9
+0	0.25	wonder#v#2 question#v#5
+1	0	marvel#v#1 wonder#v#3
+0	0	reboot#v#1 boot#v#2 bring_up#v#8
+0.125	0.125	demand#v#3 exact#v#1
+0	0	demand#v#6
+0.75	0	good#a#1
+0.75	0	better#a#1
+0.75	0	pretty#a#1
+0.75	0	colorful#a#1
+0.75	0	pleasant#a#1
+0.75	0	nice#a#1
+0.75	0	cool#a#1
+0.75	0	wonderful#a#1 elegant#a#1 notable#a#1
+1	0	amazing#a#1 best#a#1 great#a#1 marvelous#a#1 splendid#a#1 perfect#a#1 prime#a#1 excellent#a#1 magnificent#a#1 superior#a#1 outstanding#a#1 extraordinary#a#1
+0	0.75	bad#a#1 worse#a#1 smelly#a#1 foolish#a#1 silly#a#1 stupid#a#1 idiotic#a#1 pointless#a#1 unnecessary#a#1 redundant#a#1
+0	1	ridiculous#a#1 absurd#a#1 nonsensical#a#1 meaningless#a#1 useless#a#1
+0	1	stinky#a#1

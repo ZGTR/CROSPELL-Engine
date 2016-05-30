@@ -1,0 +1,95 @@
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\SpellingChecker.cs\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\SpellingChecker.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\SpellingChecker.cs\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\SpellingChecker.cs\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\SpellingChecker.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Documents\Visual Studio 2010\Projects\ZGTROLA_CROSPELLEngine\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\SpellingChecker.cs\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+\SpellingChecker.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\SpellingChecker.cs\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\ZGTR\ZGTROLA_CROSPELLEngine V1.0+ GUI\SpellingChecker.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\SpellingChecker.cs\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\SpellingChecker.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\CROSPELLEngine V1.9\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\SpellingChecker.cs\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\SpellingChecker.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V1.9\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\SpellingChecker.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\SpellingChecker.cs\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.0\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\SpellingChecker.cs\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\SpellingChecker.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.1\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\SpellingChecker.cs\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\SpellingChecker.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.2\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\SpellingChecker.cs\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\SpellingChecker.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.3\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\SpellingChecker.cs\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\SpellingChecker.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+C:\Users\ZGTR\Desktop\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\SpellingChecker.cs\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\SpellingChecker.cs\bin\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.exe
+G:\MhdShaker\College\5th Year\Term 1\ZGTR Projects\NLP\SourceCode\FinalPackages\CROSPELLEngine V2.4\SpellingChecker.cs\obj\x86\Debug\ZGTR_CROSPELLSpellingCheckerLib.pdb

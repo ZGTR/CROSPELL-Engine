@@ -1,0 +1,632 @@
+﻿<Window x:Class="ZGTR_CROSPELLSpellingCheckerApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CROSPELL Engine" Height="690" Width="1117">
+    <Grid Name="mainGrid">
+        <TabControl FontFamily="Gill Sans MT">
+            <TabItem Header="Greeting Tab">
+                <Viewport3D Name="VPGreeting">
+
+                </Viewport3D>
+            </TabItem>
+            <TabItem Header="CROSPELL Engine Text Processing" FontFamily="Gill Sans MT">
+                <StackPanel Orientation="Horizontal" Width="1089" Height="624">                    
+                    <StackPanel Height="614" Width="1082">
+                        <TabControl Height="618">                            
+                            <TabItem Header="Spell Check Me!" Name="tabItem1">
+                                <StackPanel Orientation="Horizontal">
+                                    <StackPanel Width="227">
+                                        <StackPanel.Background>
+                                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                                <GradientStop Color="#FF626262" Offset="0" />
+                                                <GradientStop Color="#FF383737" Offset="0.989" />
+                                            </LinearGradientBrush>
+                                        </StackPanel.Background>
+                                        <TextBlock FontSize="15" FontWeight="Bold" HorizontalAlignment="Center" Margin="10" VerticalAlignment="Center">Control Panel</TextBlock>
+                                        <GroupBox Height="539" Width="212">
+                                            <StackPanel Height="523" Width="198">
+                                                <Expander Header="Cyber Spelling">
+                                                    <StackPanel>
+                                                        <CheckBox Name="cbTxSMEnableSpellChecking">Enable Spell Checking</CheckBox>
+                                                        <CheckBox Name="cbTxSMEnableAutoCyber">Enable Auto Cyper Spelling</CheckBox>
+                                                        <GroupBox>
+                                                            <StackPanel>
+                                                                <TextBlock HorizontalAlignment="Center">Speed Config.</TextBlock>
+                                                                <RadioButton Name="rbTxSMNormalSpeed">Normal Speed</RadioButton>
+                                                                <RadioButton Name="rbTxSMCyberFast">Cyber Fast</RadioButton>
+                                                            </StackPanel>
+                                                        </GroupBox>
+                                                        <Button Content="Init. Arab. Cyber Spell" Height="20" Name="bTxSMInitArab" Click="bTxSMInitArab_Click" ></Button>
+                                                        <Button Content="Init. Eng. Cyber Spell" Height="20" Name="bTxSMInitEng" Click="bTxSMInitEng_Click"></Button>
+                                                        <Button Content="Enter a Corpus" Height="20" Name="bTxSMEnterCorpus" Click="bTxSMEnterCorpus_Click"></Button>
+                                                        <GroupBox>
+                                                            <StackPanel>
+                                                                <TextBlock HorizontalAlignment="Center">Pre-defined Languages</TextBlock>
+                                                                <RadioButton Name="ebTxSMArabic" Checked="ebTxSMArabic_Checked">Arabic</RadioButton>
+                                                                <RadioButton Name="ebTxSMEnglish" Checked="ebTxSMEnglish_Checked">English</RadioButton>
+                                                            </StackPanel>
+                                                        </GroupBox>
+                                                        <GroupBox>
+                                                            <StackPanel>
+                                                                <TextBlock HorizontalAlignment="Center">Ordering Option</TextBlock>
+                                                                <RadioButton Name="rbTxSMByCorups" Checked="ebTxSMByCorups_Checked">By Corpus</RadioButton>
+                                                                <RadioButton Name="rbTxSMByUserPref" Checked="ebTxSMByUserPref_Checked">By User Pref.</RadioButton>
+                                                                <RadioButton Name="rbTxSMByKeyboard" Checked="ebTxSMByKeyboard_Checked">By KB Keymap</RadioButton>
+                                                                <RadioButton Name="rbTxSMByScallarNoKM" Checked="ebTxSMByScallarNoKM_Checked">By Scallar, No KeyMap</RadioButton>
+                                                                <RadioButton Name="rbTxSMByScallarKM" Checked="ebTxSMByScallarKM_Checked">By Scallar, KeyMap</RadioButton>
+                                                            </StackPanel>
+                                                        </GroupBox>
+                                                        <TextBlock Foreground="White">Suggestions</TextBlock>
+                                                        <ListBox Name="lbTxSMSuggestions" Height="92">
+                                                        </ListBox>
+                                                        <StackPanel Orientation="Horizontal">
+                                                            <TextBox Name="tbxTxSMNewDicEntry" ClipToBounds="True"  HorizontalAlignment="Left" Width="160"></TextBox>
+                                                            <Button Name="bTxSMAddToDictionary" ClipToBounds="True" HorizontalAlignment="Right" Width="30" Click="bTxSMAddToDictionary_Click" >Add</Button>
+                                                        </StackPanel>
+                                                        <Button Name="bTxSMCorrectAllText" Click="bTxSMCorrectAllText_Click" Height="20">Cyber All Text</Button>
+                                                    </StackPanel>
+                                                </Expander>
+                                                <Expander Header="Language Identification">
+                                                    <StackPanel>
+                                                        <CheckBox Name="cbTxSMLangIden">Is Language Identification</CheckBox>
+                                                        <RadioButton Content="Uni-Gram" Margin="3" Name="rbLIdentUni" />
+                                                        <RadioButton Content="Bi-Gram" Margin="3" Name="rbLIdentBi" />
+                                                        <TextBlock FontFamily="Century Gothic" FontSize="12" Foreground="White" Height="23" Margin="2,0,0,0" Name="textBlockLIB" Text="Basic Language" />
+                                                        <ListBox Height="25" Name="lbLIBasicLang" Width="Auto" />
+                                                        <TextBlock FontFamily="Century Gothic" FontSize="12" Foreground="White" Height="23" Margin="2,0,0,0" Name="textBlockLIO" Text="Other Languages" />
+                                                        <ListBox Height="70" Name="lbLIOtherLang" Width="Auto" />
+                                                    </StackPanel>
+                                                </Expander>
+                                                <Expander Header="Topic Prediction">
+                                                    <StackPanel>
+                                                        <TextBlock FontFamily="Century Gothic" FontSize="12" Foreground="White" Height="23" Name="textBlockMT" Text="Main Topic" />
+                                                        <ListBox Height="100" Name="lbTP" Width="Auto" />
+                                                        <Button  Content="Predict" Height="23" Width="50" HorizontalAlignment="Right" Name="btTP" Click="btTP_Click"/>
+                                                    </StackPanel>
+                                                </Expander>
+                                                <Expander Header="Word Prediction">
+                                                    <StackPanel>
+                                                        <CheckBox Name="cbTxSMWordPrediction">Is Word Prediction</CheckBox>
+                                                        <RadioButton Content="Bi-Gram" Margin="3" Name="rbWPbi" />
+                                                        <RadioButton Content="Tri-Gram" Margin="3" Name="rbWPtri" />
+                                                        <ListBox Height="100" Name="lbWP" Width="Auto" MouseDoubleClick="lbWP_MouseDoubleClick" />
+                                                    </StackPanel>
+                                                </Expander>
+                                                <Expander Header="Sentiment Analysis">
+                                                    <StackPanel>
+                                                        <CheckBox Name="cbTxSMOM">Is Sentiment Analysing</CheckBox>
+                                                        <TextBlock>Current Sentiment:</TextBlock>
+                                                        <StackPanel Background="#FFA7A7A7" >
+                                                        <TextBlock Name="tbTxSMOM" HorizontalAlignment="Left" />
+                                                        </StackPanel>
+                                                    </StackPanel>
+                                                </Expander>
+                                            </StackPanel>
+                                        </GroupBox>
+                                    </StackPanel>
+                                    <StackPanel Height="594" Width="855">
+                                        <Button  Content="Clear Input Text Area" Height="20" HorizontalAlignment="Right" Margin="0,0,2,0" Name="btInputClearAll" Width="140" Click="btInputClearAll_Click" />
+                                        <Button  Content="Clear Cyber Text Area" Height="20" HorizontalAlignment="Right" Margin="0,0,2,0" Name="btInputClearCyberArea" Width="140" Click="btInputClearCyberArea_Click" />
+                                        <TextBox Background="#FFC1C1C1" FontSize="14" Foreground="Black" Height="274" Name="tbInputAll" TextWrapping="Wrap" Width="848" TextChanged="tbInputAll_TextChanged" PreviewKeyDown="tbTxSMTextInput_PreviewKeyDown"/>
+                                        <StackPanel>
+                                            <Border Padding="5" Margin="4" BorderBrush="White">
+                                                <ScrollViewer Height="210">
+                                                    <TextBlock Name="tblCTWTextArea" TextWrapping="Wrap" Background="#FFC1C1C1" FontSize="14" FontFamily="Gill Sans MT"></TextBlock>
+                                                </ScrollViewer>
+                                            </Border>
+                                            <Button Name="bCTWCorrect" HorizontalAlignment="Right" Height="22" Width="120" Click="bCTWCorrect_Click" FontFamily="Gill Sans MT">Correct With Keymap</Button>
+                                            <Button Name="bCTWDoneEditing" HorizontalAlignment="Right" Height="22" Width="120" Click="bCTWDoneEditing_Click" FontFamily="Gill Sans MT">Done Editing</Button>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </StackPanel>
+                            </TabItem>
+                            <TabItem Header="Genome Ciphering">
+                                <StackPanel Orientation="Horizontal" Height="592" Width="1082">
+                                    <StackPanel Width="227" Height="580">
+                                        <StackPanel.Background>
+                                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                                <GradientStop Color="#FF626262" Offset="0" />
+                                                <GradientStop Color="#FF383737" Offset="0.989" />
+                                            </LinearGradientBrush>
+                                        </StackPanel.Background>
+                                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" FontSize="15" FontWeight="Bold">Control Panel</TextBlock>
+                                        <GroupBox Height="542" Width="212">
+                                            <StackPanel Height="528" Width="198">
+                                                <GroupBox>
+                                                    <StackPanel>
+                                                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" FontSize="13" FontWeight="Bold">Matching Method</TextBlock>
+                                                        <Expander Header="Algorithm Chosen">
+                                                            <StackPanel>
+                                                                <RadioButton Name="rbTxGRegularBT" Margin="3">Regular, BackTrack</RadioButton>
+                                                                <RadioButton Name="rbTxGNeedlemanWunsch" Margin="3">NeedlemanWunsch, Mod.+BT</RadioButton>
+                                                                <RadioButton Name="rbTxGSmithWaterman" Margin="3">SmithWaterman, BackTrack</RadioButton>
+                                                            </StackPanel>
+                                                        </Expander>
+                                                    </StackPanel>
+                                                </GroupBox>
+                                                <GroupBox>
+                                                    <StackPanel>
+                                                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" FontSize="13" FontWeight="Bold">Performance Optimizer</TextBlock>
+                                                        <StackPanel>
+                                                            <Expander Header="Algorithms Params">
+                                                                <StackPanel>
+                                                                    <StackPanel Orientation="Horizontal">
+                                                                        <StackPanel Margin="0,3,4,0">
+                                                                            <TextBlock VerticalAlignment="Center" Height="19">Subs Cost</TextBlock>
+                                                                            <TextBlock VerticalAlignment="Center" Height="19">dW</TextBlock>
+                                                                            <TextBlock VerticalAlignment="Center" Height="19" >Match Cost</TextBlock>
+                                                                            <TextBlock VerticalAlignment="Center" Height="19">Upper Bound</TextBlock>
+                                                                            <CheckBox Name="cbTxGIsProceed" IsChecked="True" >Is Proceed</CheckBox>
+                                                                        </StackPanel>
+                                                                        <StackPanel Orientation="Vertical">
+                                                                            <TextBox Name="tbTxGSubsCost"  Width="46" Height="19">1</TextBox>
+                                                                            <TextBox Name="tbTxGDw" Width="46" Height="19">1</TextBox>
+                                                                            <TextBox Name="tbTxGMatchCost"  Width="46" Height="19">2</TextBox>
+                                                                            <TextBox Name="tbTxGupperBound"  Width="46" Height="19">1000</TextBox>
+                                                                        </StackPanel>
+                                                                    </StackPanel>
+                                                                </StackPanel>
+                                                            </Expander>
+                                                        </StackPanel>
+                                                        <Button Height="24" Margin="5" Name="bMatchGenomes" Click="bMatchGenomes_Click">Match Genomes</Button>                                                        
+                                                    </StackPanel>
+                                                </GroupBox>
+                                            </StackPanel>
+                                        </GroupBox>
+                                    </StackPanel>
+                                    <Border BorderThickness="1" BorderBrush="White" Height="380" Width="852">
+                                        <StackPanel Height="259" Width="844" Orientation="Vertical">
+                                            <StackPanel Height="153" Width="689">
+                                            <Border BorderThickness="1" BorderBrush="White">
+                                                <StackPanel Orientation="Horizontal" Height="47" Width="642">
+                                                <StackPanel Margin="0,4,20,0" Width="85">                                                    
+                                                    <TextBlock VerticalAlignment="Center" Height="19">Genome Target</TextBlock>
+                                                        <TextBlock VerticalAlignment="Center" Height="19">Genome Source</TextBlock>
+                                                </StackPanel>
+                                                <StackPanel>
+                                                            <StackPanel Orientation="Horizontal">
+                                                                <TextBox Name="tbTxGWordTarget"  Width="434" Height="21">ACACACTA</TextBox>
+                                                                <Button Name="bTxGLoadPreDefinedCihpers" Width="94" Click="bTxGLoadPreDefinedCihpers_Click">Load Another</Button>
+                                                            </StackPanel>
+                                                            <TextBox Name="tbTxGWordSource"  Width="529" Height="21">AGCACACA</TextBox>
+                                                </StackPanel>
+                                            </StackPanel>  
+                                            </Border>
+                                            <StackPanel Height="37" Orientation="Horizontal" Width="552" Background="{x:Null}">
+                                                    <Button Name="bTxGPrev" Margin="200,0,0,0" Width="48" Height="22" Click="bTxGPrev_Click">Prev.</Button>
+                                            <TextBlock Name="tblTxGPage" Margin="10,0,10,0" Height="22" Width="50" TextAlignment="Center" Text="0/0" FontSize="20" FontWeight="Normal" FontFamily="Gill Sans MT" Background="{x:Null}" Foreground="#FF8D3B3B"></TextBlock>
+                                            <Button Name="bTxGNext" Width="55" Height="22" Click="bTxGNext_Click">Next</Button>
+                                        </StackPanel>
+                                            <Border BorderThickness="1" BorderBrush="White" Height="64" Width="684">
+                                                    <ScrollViewer Name="svTxGGenomesArea" ScrollChanged="svTxGGenomesArea_ScrollChanged"  
+                                                          VerticalScrollBarVisibility="Auto" 
+                                                          HorizontalScrollBarVisibility="Auto" 
+                                                          Height="62" Width="678">
+                                                <StackPanel Name="spTxGBasic">
+                                                    <StackPanel Name="spTxGTargetArea" Orientation="Horizontal">
+
+                                                    </StackPanel>
+                                                    <StackPanel Name="spTxGSourceArea" Orientation="Horizontal">
+
+                                                    </StackPanel>
+                                                </StackPanel>
+                                            </ScrollViewer>
+                                                </Border>
+                                            </StackPanel>
+                                            <ScrollViewer VerticalScrollBarVisibility="Auto" 
+                                                          HorizontalScrollBarVisibility="Auto" Height="98" Width="688">
+                                                <StackPanel Orientation="Horizontal" Name="spTxGCellWrappers">
+                                                    <StackPanel.Background>
+                                                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                                            <GradientStop Color="#FF5F5A5A" Offset="0" />
+                                                            <GradientStop Color="#FFC4C2C2" Offset="1" />
+                                                        </LinearGradientBrush>
+                                                    </StackPanel.Background>
+                                                    
+                                                </StackPanel>
+                                            </ScrollViewer>
+                                            <StackPanel.Background>
+                                                <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                                                    <GradientStop Color="#FF7F7F7F" Offset="0" />
+                                                    <GradientStop Color="#FFEBE5E5" Offset="0.5" />
+                                                    <GradientStop Color="#FF7F7F7F" Offset="1" />
+                                                </LinearGradientBrush>
+                                            </StackPanel.Background>
+                                        </StackPanel>
+                                    </Border>
+                                </StackPanel>
+                            </TabItem>                                                     
+                            <TabItem Header="Arabic-English Dictionary" Name="tabItem2">
+                                <StackPanel Orientation="Horizontal">
+                                    <GroupBox Width="218">
+                                        <StackPanel Height="574">
+                                            <TextBlock FontFamily="Century Gothic" FontSize="16" Foreground="White" Text="Input"></TextBlock>                                            
+                                            <TextBox Background="#FFC1C1C1" FontSize="14" Foreground="Black" Height="24" Name="tbDicInput" TextAlignment="Right" TextWrapping="Wrap" />
+                                            <Button Click="bTDicInputCheck_Click" Content="Translate" Height="20" HorizontalAlignment="Right" Name="bTDicInputCheck" Width="86" />
+                                        </StackPanel>
+                                    </GroupBox>
+                                    
+                                    <StackPanel Height="600" Width="859">
+                                        <TextBlock FontFamily="Century Gothic" FontSize="16" Foreground="White" Height="23" Text="Predicted Words"/>
+                                        <Button Click="bTDicOutputClearArea_Click" Content="Clear Area" Height="24" HorizontalAlignment="Right" Name="bTDicOutputClearArea" Width="140" />                                        
+                                        <TextBox Background="#FFC1C1C1" FontSize="14" Foreground="Black" Height="546" Name="tbDicOutput" TextWrapping="Wrap" 
+                                                 HorizontalScrollBarVisibility="Visible" TextAlignment="Right" VerticalScrollBarVisibility="Auto" />
+                                    </StackPanel>
+                                    
+                                </StackPanel>
+                            </TabItem>
+                            <TabItem Header="MED Levenshtein">
+                                <StackPanel Orientation="Horizontal" Height="592" Width="1085">
+                                    <StackPanel Width="227" Height="580">
+                                        <StackPanel.Background>
+                                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                                <GradientStop Color="#FF626262" Offset="0" />
+                                                <GradientStop Color="#FF383737" Offset="0.989" />
+                                            </LinearGradientBrush>
+                                        </StackPanel.Background>
+                                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" FontSize="15" FontWeight="Bold">Control Panel</TextBlock>
+                                        <GroupBox Height="542" Width="212">
+                                            <StackPanel Height="528" Width="198">
+                                                <GroupBox>
+                                                    <StackPanel>
+                                                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" FontSize="13" FontWeight="Bold">Levenstien Control Panel</TextBlock>
+                                                        <StackPanel>
+
+                                                        </StackPanel>
+                                                        <StackPanel>
+                                                            <StackPanel Orientation="Horizontal">
+                                                                <StackPanel Margin="0,3,4,0">
+                                                                    <TextBlock VerticalAlignment="Center" Height="19">Ins/Del Cost</TextBlock>
+                                                                    <TextBlock VerticalAlignment="Center" Height="19">Subs. Cost</TextBlock>
+                                                                    <CheckBox Name="cbTxLKeyMapWeights" IsChecked="True" >Consider Key Map Weights</CheckBox>
+                                                                </StackPanel>
+                                                                <StackPanel Orientation="Vertical" Width="26">
+                                                                    <TextBox Name="tbTxLInsDelCost"  Width="18" Height="19">1</TextBox>
+                                                                    <TextBox Name="tbTxLSubsCost"  Width="18" Height="19">2</TextBox>
+                                                                </StackPanel>
+                                                            </StackPanel>
+                                                        </StackPanel>
+                                                        <Button Margin="0,5,0,0" Name="bTxLFindDistance" Content="Find Distance" Height="24" Click="bTxLFindDistance_Click" />
+                                                        <Button Name="bTxLShowBT" Content="Show BackTrack Path" Height="24" Click="bTxLShowBT_Click" />
+                                                    </StackPanel>
+                                                </GroupBox>
+                                            </StackPanel>
+                                        </GroupBox>
+                                    </StackPanel>
+                                    <Border BorderThickness="1" BorderBrush="White" Height="577" Width="853">
+                                        <StackPanel Height="566" Width="842" Orientation="Horizontal">
+                                            <StackPanel.Background>
+                                                <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                                                    <GradientStop Color="#FF7F7F7F" Offset="0" />
+                                                    <GradientStop Color="#FFEBE5E5" Offset="0.5" />
+                                                    <GradientStop Color="#FF7F7F7F" Offset="1" />
+                                                </LinearGradientBrush>
+                                            </StackPanel.Background>
+                                            <StackPanel Height="558" Width="697" Background="Gray">
+                                                <StackPanel Height="153" Width="689">
+                                                    <Border BorderThickness="1" BorderBrush="White">
+                                                        <StackPanel Orientation="Horizontal" Height="47" Width="642">
+                                                            <StackPanel Margin="0,4,20,0" Width="85">
+                                                                <TextBlock VerticalAlignment="Center" Height="19">Word Target</TextBlock>
+                                                                <TextBlock VerticalAlignment="Center" Height="19">Word Source</TextBlock>
+                                                            </StackPanel>
+                                                            <StackPanel Width="532">
+                                                                <TextBox Name="tbTxLWordTarget"  Width="530" Height="21">INTENTION</TextBox>
+                                                                <StackPanel Orientation="Horizontal">
+                                                                    <TextBox Name="tbTxLWordSource"  Width="229" Height="21">EXECUTION</TextBox>
+                                                                    <Button Name="bTxLSetSourceWord" Width="101" Click="bTxLSetSourceWord_Click">Set Source</Button>
+                                                                    <Button Name="bTxLUploadTxtFile" Width="101" Click="bTxLUploadTxtFile_Click">Upload From File</Button>
+                                                                    <Button Name="bTxLUploadExlFile" Width="101" Click="bTxLUploadExlFile_Click">Upload Excel File</Button>
+                                                                </StackPanel>
+                                                            </StackPanel>
+                                                        </StackPanel>
+                                                    </Border>
+                                                    <StackPanel Height="37" Orientation="Horizontal" Width="552" Background="{x:Null}">
+                                                        <Button Name="bTxLPrev" Margin="200,0,0,0" Width="48" Height="22" Click="bTxLPrev_Click">Prev.</Button>
+                                                        <TextBlock Name="tblTxLPage" Margin="10,0,10,0" Height="22" Width="50" TextAlignment="Center" Text="0/0" FontSize="20" FontWeight="Normal" FontFamily="Gill Sans MT" Background="{x:Null}" Foreground="#FF8D3B3B"></TextBlock>
+                                                        <Button Name="bTxLNext" Width="55" Height="22" Click="bTxLNext_Click">Next</Button>
+                                                    </StackPanel>
+                                                    <Border BorderThickness="1" BorderBrush="White" Height="64" Width="684">
+                                                        <ScrollViewer Name="svTxLSTArea" ScrollChanged="svTxGGenomesArea_ScrollChanged"  
+                                                          VerticalScrollBarVisibility="Auto" 
+                                                          HorizontalScrollBarVisibility="Auto" 
+                                                          Height="62" Width="678">
+                                                            <StackPanel Name="spTxLBasic">
+                                                                <StackPanel Name="spTxLTargetArea" Orientation="Horizontal">
+
+                                                                </StackPanel>
+                                                                <StackPanel Name="spTxLSourceArea" Orientation="Horizontal">
+
+                                                                </StackPanel>
+                                                            </StackPanel>
+                                                        </ScrollViewer>
+                                                    </Border>
+                                                </StackPanel>
+                                                <ScrollViewer VerticalScrollBarVisibility="Auto" 
+                                                          HorizontalScrollBarVisibility="Auto" Height="98" Width="688">
+                                                    <StackPanel Orientation="Horizontal" Name="spTxLCellWrappers">
+                                                        <StackPanel.Background>
+                                                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                                                <GradientStop Color="#FF5F5A5A" Offset="0" />
+                                                                <GradientStop Color="#FFC4C2C2" Offset="1" />
+                                                            </LinearGradientBrush>
+                                                        </StackPanel.Background>
+
+                                                    </StackPanel>
+                                                </ScrollViewer>
+                                                <StackPanel>
+                                                    <TextBlock TextAlignment="Center" Text="Backtrack Path" FontSize="15" FontWeight="Bold"><TextBlock.TextEffects><TextEffect Foreground="#FFD8CDCD" /></TextBlock.TextEffects></TextBlock>
+                                                    <StackPanel>
+                                                        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Height="277" Width="440">
+                                                            <StackPanel Name="spTxLTBPath">
+
+                                                            </StackPanel>
+                                                        </ScrollViewer>
+                                                    </StackPanel>
+                                                </StackPanel>
+                                            </StackPanel>
+                                            <ScrollViewer Width="141">
+                                                <StackPanel>
+                                                    <Button Name="bTxLExportToExcFile" Click="bTxLExportToExcFile_Click">Export to Excel File</Button>
+                                                    <StackPanel Name="spTxLTargetsDist">
+
+                                                    </StackPanel>
+                                                </StackPanel>
+                                            </ScrollViewer>
+                                        </StackPanel>
+                                    </Border>
+                                </StackPanel>
+                            </TabItem>
+                            <TabItem Header="Porter Algo">
+                                <StackPanel Orientation="Horizontal" Height="592" Width="1082">
+                                    <StackPanel Width="227" Height="580">
+                                        <StackPanel.Background>
+                                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                                <GradientStop Color="#FF626262" Offset="0" />
+                                                <GradientStop Color="#FF383737" Offset="0.989" />
+                                            </LinearGradientBrush>
+                                        </StackPanel.Background>
+                                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" FontSize="15" FontWeight="Bold">Control Panel</TextBlock>
+                                        <GroupBox Height="542" Width="212">
+                                            <StackPanel Height="528" Width="198">
+                                                <GroupBox>
+                                                    <StackPanel>
+                                                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" FontSize="13" FontWeight="Bold">Porter Control Panel</TextBlock>
+                                                        <Button Name="bTxPStem" Content="Parse and Stem" Click="bTxPStem_Click" Height="24" />
+                                                        <Button Name="bTxPColorify" Content="Colorify Stems"  Click="bTxPColorify_Click" Height="24" />
+                                                    </StackPanel>
+                                                </GroupBox>
+                                            </StackPanel>
+                                        </GroupBox>
+                                    </StackPanel>
+                                    <Border BorderThickness="1" BorderBrush="White" Height="577" Width="852">
+                                        <StackPanel Orientation="Horizontal">
+                                            <StackPanel Width="532">
+                                                <Border BorderBrush="White" Height="275" Width="510" BorderThickness="2">
+                                                    <StackPanel>
+                                                        <TextBlock FontFamily="Century Gothic" FontSize="16" FontWeight="Bold" Foreground="White">Input File</TextBlock>
+                                                        <Button Name="bTxPClearArea" HorizontalAlignment="Right" Width="140" Click="bTxPClearArea_Click">Clear Area</Button>
+                                                        <Button Name="bTxPUploadTextFile" HorizontalAlignment="Right" Click="bTxPUploadTextFile_Click" Content="Upload From Text File" Width="140" />
+                                                        <Button Name="bTxPUploadExcelFile" HorizontalAlignment="Right" Click="bTxPUploadExcelFile_Click" Content="Upload From Excel File" Width="140" />
+                                                        <TextBox TextWrapping="Wrap" Name="tbTxPArea1" Height="202" Background="#FFC1C1C1" Foreground="Black" FontSize="14"></TextBox>
+                                                    </StackPanel>
+                                                </Border>
+                                                <Border Margin="0,20,0,0" BorderBrush="White" Height="275" Width="510" BorderThickness="2">
+                                                    <StackPanel>
+                                                        <TextBlock FontFamily="Century Gothic" FontSize="16" FontWeight="Bold" Foreground="White">Output</TextBlock>
+                                                        <Button Name="bTxPClearArea2" HorizontalAlignment="Right" Width="140" Click="bTxPClearArea2_Click">Clear Area</Button>
+                                                        <Button Name="bTxPExportToExcelFile" HorizontalAlignment="Right" Click="bTxPExportToExcelFile_Click" Width="140" >ExportToExcelFile</Button>
+                                                        <TextBox TextWrapping="Wrap" Name="tbTxPArea2" Height="219" Background="#FFC1C1C1" Foreground="Black" FontSize="14"></TextBox>
+                                                    </StackPanel>
+                                                </Border>
+                                            </StackPanel>
+                                            <StackPanel>
+                                                <Border BorderBrush="White" BorderThickness="2">
+                                                    <StackPanel>
+                                                        <TextBlock FontFamily="Century Gothic" FontSize="16" FontWeight="Bold" 
+                                                                   Foreground="White" Height="27" Width="156">Words and Stems</TextBlock>
+                                                        <StackPanel Height="542" Width="295">
+                                                            <ScrollViewer VerticalScrollBarVisibility="Auto"  HorizontalScrollBarVisibility="Auto" Height="538" Width="285">
+                                                                <StackPanel Orientation="Horizontal">
+                                                                    <Border BorderThickness="1" BorderBrush="White">
+                                                                        <StackPanel Name="spTxPWords"></StackPanel>
+                                                                    </Border>
+                                                                    <Border Margin="10,0,0,0" BorderThickness="1" BorderBrush="White">
+                                                                        <StackPanel Name="spTxPStems"></StackPanel>
+                                                                    </Border>
+                                                                </StackPanel>
+                                                            </ScrollViewer>
+                                                        </StackPanel>
+                                                    </StackPanel>
+                                                </Border>
+                                            </StackPanel>
+                                        </StackPanel>
+                                    </Border>
+                                </StackPanel>
+                            </TabItem>
+                            <TabItem Header="ISRI Algo">
+                                <StackPanel Orientation="Horizontal" Height="592" Width="1082">
+                                    <StackPanel Width="227" Height="580">
+                                        <StackPanel.Background>
+                                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                                <GradientStop Color="#FF626262" Offset="0" />
+                                                <GradientStop Color="#FF383737" Offset="0.989" />
+                                            </LinearGradientBrush>
+                                        </StackPanel.Background>
+                                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" FontSize="15" FontWeight="Bold">Control Panel</TextBlock>
+                                        <GroupBox Height="542" Width="212">
+                                            <StackPanel Height="528" Width="198">
+                                                <GroupBox>
+                                                    <StackPanel>
+                                                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" FontSize="13" FontWeight="Bold">ISRI Control Panel</TextBlock>
+                                                        <Button Name="bTxIStem" Content="Parse and Stem" Height="24" Click="bTxIStem_Click" />
+                                                        <Button Name="bTxIColorify" Content="Colorify Stems" Height="24" Click="bTxIColorify_Click" />
+                                                    </StackPanel>
+                                                </GroupBox>
+                                            </StackPanel>
+                                        </GroupBox>
+                                    </StackPanel>
+                                    <Border BorderThickness="1" BorderBrush="White" Height="577" Width="852">
+                                        <StackPanel Orientation="Horizontal">
+                                            <StackPanel Width="532">
+                                                <Border BorderBrush="White" Height="275" Width="510" BorderThickness="2">
+                                                    <StackPanel>
+                                                        <TextBlock FontFamily="Century Gothic" FontSize="16" FontWeight="Bold" Foreground="White">Input File</TextBlock>
+                                                        <Button Name="bTxIClearArea" HorizontalAlignment="Right" Width="140" Click="bTxIClearArea_Click">Clear Area</Button>
+                                                        <Button Name="bTxIUploadExcelFile" HorizontalAlignment="Right" Content="Upload From Excel File" Click="bTxIUploadExcelFile_Click" Width="140"/>
+                                                        <TextBox TextAlignment="Right"  TextWrapping="Wrap" Name="tbTxIArea1" Height="219" Background="#FFC1C1C1" Foreground="Black" FontSize="14" Width="505"></TextBox>
+                                                    </StackPanel>
+                                                </Border>
+                                                <Border Margin="0,20,0,0" BorderBrush="White" Height="275" Width="510" BorderThickness="2">
+                                                    <StackPanel>
+                                                        <TextBlock FontFamily="Century Gothic" FontSize="16" FontWeight="Bold" Foreground="White">Output</TextBlock>
+                                                        <Button Name="bTxIClearArea2" HorizontalAlignment="Right" Width="140" Click="bTxIClearArea2_Click">Clear Area</Button>
+                                                        <Button Name="bTxIExportToExcelFile" HorizontalAlignment="Right" Width="140" Click="bTxIExportToExcelFile_Click">ExportToExcelFile</Button>
+                                                        <TextBox TextAlignment="Right" TextWrapping="Wrap" Name="tbTxIArea2" Height="218" Background="#FFC1C1C1" Foreground="Black" FontSize="14" Width="505"></TextBox>
+                                                    </StackPanel>
+                                                </Border>
+                                            </StackPanel>
+                                            <StackPanel>
+                                                <Border BorderBrush="White" BorderThickness="2">
+                                                    <StackPanel>
+                                                        <TextBlock FontFamily="Century Gothic" FontSize="16" FontWeight="Bold" 
+                                                                   Foreground="White" Height="27" Width="156">Words and Stems</TextBlock>
+                                                        <StackPanel Height="542" Width="295">
+                                                            <ScrollViewer VerticalScrollBarVisibility="Auto"  HorizontalScrollBarVisibility="Auto" Height="538" Width="285">
+                                                                <StackPanel Orientation="Horizontal">
+                                                                    <Border BorderThickness="1" BorderBrush="White">
+                                                                        <StackPanel Name="spTxIWords"></StackPanel>
+                                                                    </Border>
+                                                                    <Border Margin="10,0,0,0" BorderThickness="1" BorderBrush="White">
+                                                                        <StackPanel Name="spTxIStems"></StackPanel>
+                                                                    </Border>
+                                                                </StackPanel>
+                                                            </ScrollViewer>
+                                                        </StackPanel>
+                                                    </StackPanel>
+                                                </Border>
+                                            </StackPanel>
+
+                                        </StackPanel>
+                                    </Border>
+                                </StackPanel>
+                            </TabItem>
+                        </TabControl>
+                    </StackPanel>
+                </StackPanel>
+            </TabItem>
+            <TabItem Name="tabImageProces" Header="CROSPELL Engine Image Processing">
+                <StackPanel Orientation="Horizontal" Width="1089" Height="624">
+                    <StackPanel Width="228" Height="615">
+                        <StackPanel.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FF626262" Offset="0" />
+                                <GradientStop Color="#FF383737" Offset="0.989" />
+                            </LinearGradientBrush>
+                        </StackPanel.Background>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" FontSize="13" FontWeight="Bold">
+                    Control Panel</TextBlock>
+                        <GroupBox Height="568" Width="212">
+                            <StackPanel Height="545" Width="198">
+                                <Button Height="24" Name="buttonChooseInputImage" Click="buttonChooseInputImage_Click">Choose Input Image</Button>
+                                <Button Height="24" Name="buttonChooseImageSet" Click="buttonChooseImageSet_Click">Choose Image Set</Button>
+                                <GroupBox>
+                                    <StackPanel>
+                                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" FontSize="13" FontWeight="Bold">Ordering Option</TextBlock>
+                                        <Expander Header="Ordering Option">
+                                            <StackPanel>                                                
+                                                <RadioButton Name="rbImOrdCompR" Margin="3">ByRComp</RadioButton>
+                                                <RadioButton Name="rbImOrdCompB" Margin="3">ByBComp</RadioButton>
+                                                <RadioButton Name="rbImOrdCompG" Margin="3">ByGComp</RadioButton>
+                                                <RadioButton Name="rbImOrdCompRB" Margin="3">ByRBComp</RadioButton>
+                                                <RadioButton Name="rbImOrdCompRG" Margin="3">ByRGComp</RadioButton>
+                                                <RadioButton Name="rbImOrdCompGB" Margin="3">ByBGComp</RadioButton>
+                                                <RadioButton Name="rbImOrdCompRGB" Margin="3">ByRBGComp</RadioButton>
+                                            </StackPanel>
+                                        </Expander>
+                                    </StackPanel>
+                                </GroupBox>
+                                <GroupBox>
+                                    <StackPanel>
+                                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" FontSize="13" FontWeight="Bold">Performance Optimizer</TextBlock>
+                                        <Expander Header="Activated Algorithm">
+                                            <StackPanel>
+                                                <RadioButton Name="rbImMEDRegular" Margin="2">MEDRegular</RadioButton>
+                                                <RadioButton Name="rbImMEDStalkerWithBT" Margin="2">MEDStalkerWithBT</RadioButton>
+                                                <RadioButton Name="rbImMEDStalkerWithoutBT" Margin="2">MEDStalkerWithoutBT</RadioButton>
+                                                <RadioButton Name="rbImMEDStalkerWithBTEnhanced" Margin="2">MEDStalkerWithBTEnh.</RadioButton>
+                                                <RadioButton Name="rbImMEDStalkerWithoutBTEnhanced" Margin="2">MEDStalkerWithoutBTEnh.</RadioButton>
+                                            </StackPanel>
+                                        </Expander>
+                                        <StackPanel>
+                                            <Expander Header="Algorithms Params">
+                                                <StackPanel Height="117" Width="145">
+                                                    <StackPanel Orientation="Horizontal">
+                                                        <StackPanel Margin="0,3,4,0">
+                                                            <TextBlock VerticalAlignment="Center" Height="19">Substitution Cost</TextBlock>
+                                                            <TextBlock VerticalAlignment="Center" Height="19">Error Margin Perc</TextBlock>
+                                                            <TextBlock VerticalAlignment="Center" Height="19">Convergance Area</TextBlock>
+                                                            <TextBlock VerticalAlignment="Center" Height="19">Boundry Width</TextBlock>
+                                                            <TextBlock VerticalAlignment="Center" Height="19" >Boundry Height</TextBlock>
+                                                            <TextBlock VerticalAlignment="Center" Height="19">Threshold</TextBlock>
+                                                        </StackPanel>
+                                                        <StackPanel Orientation="Vertical">                                                            
+                                                            <TextBox Name="tbImSubsCost"  Width="46" Height="19">1</TextBox>
+                                                            <TextBox Name="tbImErrorMargin"  Width="46" Height="19">5</TextBox>
+                                                            <TextBox Name="tbImConverArea"  Width="46" Height="19">10</TextBox>
+                                                            <TextBox Name="tbImBoundWidth"  Width="46" Height="19">0</TextBox>
+                                                            <TextBox Name="tbImBoundHeight"  Width="46" Height="19">0</TextBox>
+                                                            <TextBox Name="tbImThreshold"  Width="46" Height="19">150</TextBox>
+                                                        </StackPanel>                                                       
+                                                    </StackPanel>
+                                                </StackPanel>
+                                            </Expander>
+                                            <Expander Header="Patch Finding">                                                
+                                                <StackPanel>
+                                                    <GroupBox>
+                                                        <StackPanel>
+                                                            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Unit Intention</TextBlock>
+                                                            <RadioButton Name="rbPFInsetion">Insetion</RadioButton>
+                                                            <RadioButton Name="rbPFDeletion">Deletion</RadioButton>
+                                                            <RadioButton Name="rbPFSubstitution">Substitution</RadioButton>
+                                                        </StackPanel>
+                                                    </GroupBox>
+                                                    <GroupBox>
+                                                        <StackPanel>
+                                                            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Color Component</TextBlock>
+                                                            <RadioButton Name="rbPFRed">Red</RadioButton>
+                                                            <RadioButton Name="rbPFBlue">Blue</RadioButton>
+                                                            <RadioButton Name="rbPFGreen">Green</RadioButton>
+                                                        </StackPanel>
+                                                    </GroupBox>
+                                                </StackPanel>
+                                            </Expander>
+                                        </StackPanel>
+                                        <Button Height="24" Name="bFindAndOrderImages" Click="bFindAndOrderImages_Click">Find and Order Images</Button>
+                                        <Button Height="24" Name="bExtractAllOuputImages" Click="bExtractAllOuputImages_Click">Extract All Output Images</Button>
+                                    </StackPanel>                                    
+                                </GroupBox>                                
+                            </StackPanel>
+                        </GroupBox>
+                    </StackPanel>
+                    <StackPanel>
+                        <Grid Margin="0,40,0,30" Height="240" Width="840" Background="Gray">
+                            <ScrollViewer VerticalScrollBarVisibility="Auto"  HorizontalScrollBarVisibility="Auto">
+                                <StackPanel Name="spImageIn">
+                                    
+                                </StackPanel>
+                            </ScrollViewer>
+                        </Grid>
+                        <Border Height="256" BorderThickness="2" BorderBrush="LightGray" Width="853" Padding="6">
+                            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Margin="10,0,12,7" Height="226" Width="822">
+                                <StackPanel Name="spImagesOut" Orientation="Horizontal" Background="Gray">
+
+                                </StackPanel>
+                            </ScrollViewer>
+                        </Border>
+                    </StackPanel>
+                </StackPanel>
+            </TabItem>
+        </TabControl>        
+    </Grid>
+</Window>

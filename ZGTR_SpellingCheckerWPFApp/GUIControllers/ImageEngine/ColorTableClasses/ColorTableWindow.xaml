@@ -1,0 +1,31 @@
+﻿<Window x:Class="ZGTR_SpellingCheckerWPFApp.GUIControllers.ColorTableWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d3="http://research.microsoft.com/DynamicDataDisplay/1.0"
+        Title="ColorTableWindow" Height="608" Width="922">
+    <Grid Background="#FF5F5F5F">
+        <StackPanel Orientation="Horizontal">
+            <Border BorderThickness="2" BorderBrush="DarkGray">
+                
+                    <StackPanel Margin="5" Width="122">
+                        <TextBlock FontSize="15" FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Center" FontFamily="Gill Sans MT" Foreground="#FFDEDEDE">Color Table</TextBlock>
+                    <ScrollViewer VerticalScrollBarVisibility="Auto"  HorizontalScrollBarVisibility="Auto" Height="535">
+                        <StackPanel Name="stackPanelColorTable">
+                            
+                        </StackPanel>
+                    </ScrollViewer>
+                    </StackPanel>                
+            </Border>
+            <StackPanel Width="762">
+                <d3:ChartPlotter Name="chartPlotterHistogram" Background="Gray" Height="565" Width="745" FontFamily="Gill Sans MT">
+                    <d3:ChartPlotter.HorizontalAxis>
+                        <d3:NumericAxis Name="dateAxis"/>
+                    </d3:ChartPlotter.HorizontalAxis>
+                    <d3:Header FontFamily="Gill Sans MT" Content="Color Table Histogram"/>
+                    <d3:VerticalAxisTitle FontFamily="Gill Sans MT" Content="Occurances"/>
+                    <d3:HorizontalAxisTitle FontFamily="Gill Sans MT" Content="Colors"/>
+                </d3:ChartPlotter>
+            </StackPanel>            
+        </StackPanel>        
+    </Grid>
+</Window>

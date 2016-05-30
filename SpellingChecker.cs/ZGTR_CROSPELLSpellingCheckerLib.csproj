@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FAFEE9CE-E92A-420A-9FE3-F2AF11728795}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ZGTR_CROSPELLSpellingCheckerLib</RootNamespace>
+    <AssemblyName>ZGTR_CROSPELLSpellingCheckerLib</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="HelperModules\HelperModule.cs" />
+    <Compile Include="HelperModules\ObjectSerializer.cs" />
+    <Compile Include="ImagesProcessingEngine\ColorComponent.cs" />
+    <Compile Include="ImagesProcessingEngine\ImageChecker.cs" />
+    <Compile Include="ImagesProcessingEngine\ImageHelperModule.cs" />
+    <Compile Include="ImagesProcessingEngine\ImagePatchFinder.cs" />
+    <Compile Include="ImagesProcessingEngine\ImageUnitWrapper.cs" />
+    <Compile Include="ImagesProcessingEngine\MEDAlgorithmChosen.cs" />
+    <Compile Include="TextProcessingEngine\ISRI\ISRIAlgo.cs" />
+    <Compile Include="TextProcessingEngine\LangIdent\Language.cs" />
+    <Compile Include="TextProcessingEngine\OM\Evaluation.cs" />
+    <Compile Include="TextProcessingEngine\OM\OMEngine.cs" />
+    <Compile Include="TextProcessingEngine\OM\SenPair.cs" />
+    <Compile Include="TextProcessingEngine\Porter\PorterStemmer.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\CyberSpellMod.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\ImageProcessingAlgos\MEDStalkerWithBTEnhanced.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\ImageProcessingAlgos\MEDStalkerWithoutBTEnhanced.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\ImageProcessingAlgos\MEDStalkerWithoutBT.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\ImageProcessingAlgos\MEDStalkerWithBT.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\Enums\BackTracePointer.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\Enums\CellWrapper.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\BiologicalComp\MEDSmithWatermanAlgo.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\BiologicalComp\MEDNeedlemanWunschAlgoMod.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\BiologicalComp\MEDNeedlemanWunschAlgo.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\MEDBasics\MEDRegularWithBTHeuristics.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\MEDBasics\MEDRegularWithBT.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\MEDBasics\MEDBase.cs" />
+    <Compile Include="ImagesProcessingEngine\OrderingByColorOption.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\Enums\UnitIntention.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\SuggestItemsComparer.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\SuggestionsOrdering.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\UserPref\UserPreferenceHandler.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\UserPref\XmlSerializerHandler.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\DictionaryItem.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\SuggestItem.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\EditItem.cs" />
+    <Compile Include="Copy of SymSpell.cs" />
+    <Compile Include="Keyboard\KeyboardHandler.cs" />
+    <Compile Include="Keyboard\KeyboardLanguage.cs" />
+    <Compile Include="Keyboard\KeyInfo.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\MEDBasics\MEDRegular.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\Algorithms\CyberSpell.cs" />
+    <Compile Include="Keyboard\XMLKeyboardParser.cs" />
+    <Compile Include="TextProcessingEngine\SpellingCheckerEngine\UserPref\UserPreference.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Databases\KeyboardMaps\KeyboardMapArabic.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Databases\KeyboardMaps\KeyboardMapEnglish.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Databases\UserPreferenceDb\UserPreferenceDb.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

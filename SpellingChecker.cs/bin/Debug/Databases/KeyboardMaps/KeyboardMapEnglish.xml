@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KeyboardMap>
+  <KeyboardRow RowNum="0">
+    <KeyboardRowKeys Layer="0" ShiftEnabled="false">
+      <![CDATA[` 1 2 3 4 5 6 7 8 9 0 - =]]>
+    </KeyboardRowKeys>
+    <KeyboardRowKeys Layer="1" ShiftEnabled="true">
+      <![CDATA[~ ! @ # $ % ^ & * ( ) _ +]]>
+    </KeyboardRowKeys>
+  </KeyboardRow>
+
+  <KeyboardRow RowNum="1">
+    <KeyboardRowKeys Layer="0" ShiftEnabled="false">
+      <![CDATA[q w e r t y u i o p [ ]]]>
+    </KeyboardRowKeys>
+    <KeyboardRowKeys Layer="1" ShiftEnabled="true">
+      <![CDATA[Q W E R T Y U I O P { }]]>
+    </KeyboardRowKeys>
+  </KeyboardRow>
+
+  <KeyboardRow RowNum="2">
+    <KeyboardRowKeys Layer="0" ShiftEnabled="false">
+      <![CDATA[a s d f g h j k l ; ' \]]>
+    </KeyboardRowKeys>
+    <KeyboardRowKeys Layer="1" ShiftEnabled="true">
+      <![CDATA[ِA S D F G H J K L : "]]>
+    </KeyboardRowKeys>
+  </KeyboardRow>
+
+  <KeyboardRow RowNum="2">
+    <KeyboardRowKeys Layer="0" ShiftEnabled="false">
+      <![CDATA[\ z x c v b n m , . /]]>
+    </KeyboardRowKeys>
+    <KeyboardRowKeys Layer="1" ShiftEnabled="true">
+      <![CDATA[| Z X C V B N M < > ?]]>
+    </KeyboardRowKeys>
+  </KeyboardRow>
+
+</KeyboardMap>

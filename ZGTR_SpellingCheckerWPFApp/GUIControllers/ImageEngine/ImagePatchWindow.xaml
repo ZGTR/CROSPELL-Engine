@@ -1,0 +1,16 @@
+﻿<Window x:Class="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.ImageEngine.ImagePatchWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ImagePatchWindow" Height="264" Width="628">
+    <Grid Background="#FF6C6C6C">
+        <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <GroupBox HorizontalAlignment="Center" VerticalAlignment="Center">
+                
+                        <StackPanel Orientation="Horizontal" Name="spContainer"></StackPanel>
+                
+                </GroupBox>            
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>

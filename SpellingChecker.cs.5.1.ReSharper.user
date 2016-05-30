@@ -1,0 +1,732 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:ImagesProcessingEngine/f:ImageUnitWrapper.cs" caret="2241" fromTop="10" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:SpellingCheckerEngine/d:Algorithms/d:MEDAlgos/f:MEDNeedlemanWunschAlgoMod.cs" caret="1446" fromTop="10" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:SpellingCheckerEngine/d:Algorithms/d:MEDAlgos/f:MEDSmithWatermanAlgo.cs" caret="1208" fromTop="9" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:SpellingCheckerEngine/d:Algorithms/d:MEDAlgos/f:TempMEDStalker.cs" caret="1477" fromTop="40" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:SpellingCheckerEngine/d:Algorithms/d:MEDAlgos/f:MEDStalkerWithoutBTEnhanced.cs" caret="231" fromTop="5" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:SpellingCheckerEngine/d:Algorithms/d:MEDAlgos/f:MEDRegular.cs" caret="347" fromTop="5" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:ImagesProcessingEngine/f:ImageChecker.cs" caret="12306" fromTop="5" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:SpellingCheckerEngine/d:Algorithms/d:MEDAlgos/f:MEDStalkerWithBTEnhanced.cs" caret="807" fromTop="0" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:SpellingCheckerEngine/d:Algorithms/d:MEDAlgos/f:MEDRegularWithBT.cs" caret="225" fromTop="5" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:SpellingCheckerEngine/d:Algorithms/d:MEDAlgos/f:MEDStalkerWithBT.cs" caret="226" fromTop="5" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:SpellingCheckerEngine/d:Algorithms/d:MEDAlgos/f:MEDBase.cs" caret="236" fromTop="7" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:SpellingCheckerEngine/d:Algorithms/d:MEDAlgos/f:MEDStalkerWithoutBT.cs" caret="2450" fromTop="5" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:TextAreaHandler.cs" caret="662" fromTop="12" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/f:GenomCipherAreaHandler.cs" caret="246" fromTop="12" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:ExpressionDark.xaml" caret="0" fromTop="0" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:App.xaml" caret="335" fromTop="4" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/f:Point.cs" caret="27" fromTop="1" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:ColorTableClasses/f:ColorTableWindow.xaml.cs" caret="3102" fromTop="17" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:ColorTableClasses/f:ColorTableTriple.cs" caret="0" fromTop="0" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:ColorTableClasses/f:ColorTable.cs" caret="807" fromTop="21" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/f:HelperModule.cs" caret="335" fromTop="12" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/f:ImageContainer.cs" caret="4598" fromTop="57" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/f:Copy of SymSpell.cs" caret="0" fromTop="0" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/f:CROSPELLImageTHandler.cs" caret="1366" fromTop="24" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:ImagesProcessingEngine/f:OrderingByColorOption.cs" caret="191" fromTop="8" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:ImagesProcessingEngine/f:MEDAlgorithmChosen.cs" caret="188" fromTop="8" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml.cs" caret="650" fromTop="7" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/f:Program.cs" caret="2074" fromTop="15" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="2523" fromTop="8" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/f:CROSPELLTextTHandler.cs" caret="236" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="7773" fromTop="3" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="6498" fromTop="11" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="6498" fromTop="2" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="9236" fromTop="12" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/f:Program.cs" caret="2941" fromTop="17" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="9760" fromTop="3" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="11664" fromTop="10" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="11542" fromTop="5" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="5463" fromTop="6" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="431" fromTop="6" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="318" fromTop="2" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="4986" fromTop="5" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="5229" fromTop="10" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/f:Program.cs" caret="2941" fromTop="10" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/f:Program.cs" caret="2941" fromTop="8" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/f:Program.cs" caret="5514" fromTop="27" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/f:Program.cs" caret="4456" fromTop="7" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/f:Program.cs" caret="2366" fromTop="12" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="6873" fromTop="4" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="3891" fromTop="12" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="3891" fromTop="5" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="2993" fromTop="11" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="9752" fromTop="7" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="10163" fromTop="11" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="10576" fromTop="6" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="3238" fromTop="6" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="2576" fromTop="6" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="2515" fromTop="8" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/f:CROSPELLTextTHandler.cs" caret="318" fromTop="5" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/f:CROSPELLTextTHandler.cs" caret="255" fromTop="6" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="dictionary" priority="0" />
+      <Item value="MEDAlgo`0" priority="0" />
+      <Item value="new" priority="71" />
+      <Item value="MEDAlgo" priority="0" />
+      <Item value="t" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="1" />
+      <Item value="Xml" priority="1" />
+      <Item value="XmlDocument`0" priority="0" />
+      <Item value="XmlDocument" priority="1" />
+      <Item value="doc" priority="0" />
+      <Item value="int" priority="56" />
+      <Item value="arrKeyboard" priority="2" />
+      <Item value="Length" priority="9" />
+      <Item value="public" priority="30" />
+      <Item value="XMLKeyboardParser`0" priority="1" />
+      <Item value="void" priority="6" />
+      <Item value="string" priority="21" />
+      <Item value="rowKeyboardKeys" priority="0" />
+      <Item value="Select`2" priority="2" />
+      <Item value="parser" priority="1" />
+      <Item value="XMLKeyboardParser" priority="0" />
+      <Item value="arrKeyboardShiftFalse" priority="2" />
+      <Item value="ToList`1" priority="1" />
+      <Item value="listOfRow3" priority="1" />
+      <Item value="return" priority="33" />
+      <Item value="static" priority="3" />
+      <Item value="keyboard" priority="0" />
+      <Item value="KeyboardLanguage`0" priority="7" />
+      <Item value="language" priority="1" />
+      <Item value="switch" priority="9" />
+      <Item value="distance" priority="0" />
+      <Item value="char" priority="7" />
+      <Item value="private" priority="6" />
+      <Item value="KeyInfo`0" priority="0" />
+      <Item value="keyChar" priority="4" />
+      <Item value="Char`0" priority="3" />
+      <Item value="if" priority="27" />
+      <Item value="this" priority="51" />
+      <Item value="keyMap" priority="0" />
+      <Item value="for" priority="14" />
+      <Item value="layerKeys" priority="2" />
+      <Item value="Count`1" priority="1" />
+      <Item value="i" priority="15" />
+      <Item value="break" priority="4" />
+      <Item value="KeyInfo" priority="0" />
+      <Item value="char1" priority="1" />
+      <Item value="handler" priority="2" />
+      <Item value="KeyboardHandler" priority="0" />
+      <Item value="totalDistance" priority="0" />
+      <Item value="isShiftEnabled1" priority="0" />
+      <Item value="isShiftEnabled2" priority="0" />
+      <Item value="key1" priority="3" />
+      <Item value="row1" priority="2" />
+      <Item value="row2" priority="1" />
+      <Item value="indexInRow1" priority="2" />
+      <Item value="indexInRow2" priority="0" />
+      <Item value="else" priority="10" />
+      <Item value="weight" priority="4" />
+      <Item value="Math`0" priority="3" />
+      <Item value="key2" priority="1" />
+      <Item value="true" priority="0" />
+      <Item value="false" priority="1" />
+      <Item value="GetDistanceBetweenKeys`0" priority="1" />
+      <Item value="layerIndex" priority="0" />
+      <Item value="throw" priority="1" />
+      <Item value="Exception" priority="0" />
+      <Item value="String`0" priority="3" />
+      <Item value="List" priority="12" />
+      <Item value="SuggestItem`0" priority="1" />
+      <Item value="editDistanceMax" priority="0" />
+      <Item value="verbose" priority="0" />
+      <Item value="fullText" priority="0" />
+      <Item value="foreach" priority="3" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="try" priority="5" />
+      <Item value="Out" priority="0" />
+      <Item value="algo" priority="3" />
+      <Item value="ToLookup`3" priority="0" />
+      <Item value="Keyboard" priority="0" />
+      <Item value="lang" priority="0" />
+      <Item value="ParseWordsAraic`0" priority="0" />
+      <Item value="Encoder`0" priority="0" />
+      <Item value="Arabic" priority="0" />
+      <Item value="Dictionary&lt;string,DictionaryItem&gt;" priority="0" />
+      <Item value="WaitForChangedResult`0" priority="0" />
+      <Item value="arabFile" priority="1" />
+      <Item value="ParseWordsArabic`0" priority="0" />
+      <Item value="BitConverter`0" priority="0" />
+      <Item value="arabicEncoding" priority="1" />
+      <Item value="Encoding`0" priority="4" />
+      <Item value="None" priority="0" />
+      <Item value="currentWord" priority="0" />
+      <Item value="ansiEncoding" priority="0" />
+      <Item value="StreamWriter`0" priority="1" />
+      <Item value="StreamWriter" priority="1" />
+      <Item value="Text" priority="0" />
+      <Item value="swIn" priority="0" />
+      <Item value="arabicEncodingSW" priority="0" />
+      <Item value="Stream`0" priority="1" />
+      <Item value="StreamReader`0" priority="0" />
+      <Item value="List&lt;byte&gt;" priority="1" />
+      <Item value="UserPreferenceHandler`0" priority="2" />
+      <Item value="ParallelEnumerable`0" priority="0" />
+      <Item value="XmlNode`0" priority="3" />
+      <Item value="object" priority="1" />
+      <Item value="xmlDbPath" priority="2" />
+      <Item value="_xmlDoc" priority="3" />
+      <Item value="from" priority="2" />
+      <Item value="where" priority="6" />
+      <Item value="item" priority="1" />
+      <Item value="wordWrong" priority="4" />
+      <Item value="select" priority="2" />
+      <Item value="XmlElement`0" priority="4" />
+      <Item value="XMLIOHandler`0" priority="1" />
+      <Item value="UserPreference`0" priority="1" />
+      <Item value="UserPreference" priority="0" />
+      <Item value="wordPrefered" priority="2" />
+      <Item value="userPreference" priority="1" />
+      <Item value="_xmlDbPath" priority="0" />
+      <Item value="UserPreferenceHandler" priority="0" />
+      <Item value="Counter" priority="0" />
+      <Item value="WordPrefered" priority="0" />
+      <Item value="WordWrong" priority="1" />
+      <Item value="XmlNodeList`0" priority="0" />
+      <Item value="xmlList" priority="1" />
+      <Item value="node" priority="7" />
+      <Item value="XElement" priority="0" />
+      <Item value="element" priority="1" />
+      <Item value="nodeElementStored" priority="4" />
+      <Item value="elementRoot" priority="1" />
+      <Item value="var" priority="2" />
+      <Item value="XElement`0" priority="0" />
+      <Item value="null" priority="2" />
+      <Item value="userPrefVal" priority="1" />
+      <Item value="TextBox`0" priority="1" />
+      <Item value="TextBox" priority="0" />
+      <Item value="tb" priority="0" />
+      <Item value="ComboBox`0" priority="0" />
+      <Item value="ComboBox" priority="0" />
+      <Item value="cmbBox" priority="2" />
+      <Item value="rtbUserArea" priority="0" />
+      <Item value="MessageBox`0" priority="1" />
+      <Item value="e" priority="1" />
+      <Item value="TextAreaHandler`0" priority="1" />
+      <Item value="MainWindow`0" priority="1" />
+      <Item value="mainWindow" priority="1" />
+      <Item value="MainWindow" priority="0" />
+      <Item value="as" priority="1" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="ImagesProcessingEngine" priority="0" />
+      <Item value="ImageUnitWrapper`0" priority="2" />
+      <Item value="Bitmap`0" priority="3" />
+      <Item value="image" priority="0" />
+      <Item value="ImageHelperModule`0" priority="2" />
+      <Item value="imageBM" priority="0" />
+      <Item value="boundryWidth" priority="1" />
+      <Item value="threshold" priority="0" />
+      <Item value="Dictionary&lt;int,ImageUnitWrapper&gt;" priority="2" />
+      <Item value="dicOfBitmapsOrigin" priority="1" />
+      <Item value="ImageUnitWrapper" priority="1" />
+      <Item value="bitmapsOrigin" priority="0" />
+      <Item value="pair" priority="1" />
+      <Item value="substitutionVal" priority="7" />
+      <Item value="List&lt;Bitmap&gt;" priority="1" />
+      <Item value="orderedBMList" priority="0" />
+      <Item value="listOfDinstances" priority="4" />
+      <Item value="List&lt;int&gt;" priority="4" />
+      <Item value="while" priority="2" />
+      <Item value="listOfDinstancesManipulated" priority="0" />
+      <Item value="dicOfBitmapsOriginManipulated" priority="1" />
+      <Item value="currentMin" priority="0" />
+      <Item value="indexInList" priority="0" />
+      <Item value="colorComponent" priority="1" />
+      <Item value="bitmap" priority="1" />
+      <Item value="Color`0" priority="0" />
+      <Item value="chosenBitmap" priority="4" />
+      <Item value="ColorComponent`0" priority="1" />
+      <Item value="orderingOption" priority="1" />
+      <Item value="listOfDinstancesB" priority="1" />
+      <Item value="listOfDinstancesG" priority="0" />
+      <Item value="listOR" priority="0" />
+      <Item value="listDR" priority="0" />
+      <Item value="listDB" priority="0" />
+      <Item value="arrOfLists" priority="2" />
+      <Item value="checker" priority="1" />
+      <Item value="ImageChecker" priority="0" />
+      <Item value="listIn" priority="0" />
+      <Item value="Bitmap" priority="1" />
+      <Item value="ByRedAndBlueAndGreenComp" priority="0" />
+      <Item value="listOut" priority="1" />
+      <Item value="Console`0" priority="2" />
+      <Item value="DateTime`0" priority="1" />
+      <Item value="TimeoutException`0" priority="0" />
+      <Item value="d1" priority="0" />
+      <Item value="tWord" priority="5" />
+      <Item value="d" priority="2" />
+      <Item value="mT" priority="1" />
+      <Item value="min" priority="4" />
+      <Item value="Int32`0" priority="4" />
+      <Item value="speedUpOption" priority="0" />
+      <Item value="EnhancedMED" priority="0" />
+      <Item value="MEDAlgoEnhanced`0" priority="1" />
+      <Item value="abstract" priority="1" />
+      <Item value="MEDAlgoRegularBase`0" priority="2" />
+      <Item value="override" priority="9" />
+      <Item value="protected" priority="7" />
+      <Item value="sWord" priority="4" />
+      <Item value="Convert`0" priority="0" />
+      <Item value="colorComp" priority="6" />
+      <Item value="MEDAlgoRegular`0" priority="2" />
+      <Item value="BackTracePointer`0" priority="4" />
+      <Item value="BackTracePointer" priority="0" />
+      <Item value="nS" priority="0" />
+      <Item value="virtual" priority="6" />
+      <Item value="PtrBT" priority="0" />
+      <Item value="iDel" priority="4" />
+      <Item value="iInsert" priority="2" />
+      <Item value="PtrBTArr" priority="5" />
+      <Item value="UnitIntention" priority="0" />
+      <Item value="arr" priority="1" />
+      <Item value="List&lt;UnitIntention&gt;" priority="0" />
+      <Item value="GetLowerBound`0" priority="0" />
+      <Item value="GetLength`0" priority="4" />
+      <Item value="currentI" priority="11" />
+      <Item value="currentJ" priority="8" />
+      <Item value="cellDiff" priority="0" />
+      <Item value="UnitIntention`0" priority="3" />
+      <Item value="MEDAlgoRegularWithBT" priority="0" />
+      <Item value="_sWord" priority="0" />
+      <Item value="_tWord" priority="1" />
+      <Item value="iSub" priority="3" />
+      <Item value="MEDAlgoBase`0" priority="0" />
+      <Item value="_dW" priority="1" />
+      <Item value="MEDAlgoRegularWithBT`0" priority="1" />
+      <Item value="MEDNeedlemanWunschAlgo`0" priority="1" />
+      <Item value="MEDNeedlemanWunschAlgo" priority="0" />
+      <Item value="max" priority="4" />
+      <Item value="base" priority="1" />
+      <Item value="dW" priority="0" />
+      <Item value="iMax" priority="0" />
+      <Item value="jMax" priority="0" />
+      <Item value="iCellFrom" priority="0" />
+      <Item value="jCellFrom" priority="0" />
+      <Item value="arrPair" priority="3" />
+      <Item value="currentCellVal" priority="2" />
+      <Item value="ijArr" priority="1" />
+      <Item value="IFormatProvider`0" priority="0" />
+      <Item value="MEDNeedlemanWunschAlgoMod`0" priority="0" />
+      <Item value="_matchCost" priority="0" />
+      <Item value="matchCost" priority="1" />
+      <Item value="GetMax`0" priority="0" />
+      <Item value="List&lt;int[]&gt;" priority="1" />
+      <Item value="btArr" priority="0" />
+      <Item value="NotImplementedException`0" priority="0" />
+      <Item value="List&lt;UnitIntention[]&gt;" priority="0" />
+      <Item value="CellWrapper`0" priority="1" />
+      <Item value="CellWrapper" priority="0" />
+      <Item value="c2" priority="0" />
+      <Item value="k" priority="0" />
+      <Item value="temp" priority="0" />
+      <Item value="bool" priority="1" />
+      <Item value="isProceed" priority="0" />
+      <Item value="_nS" priority="0" />
+      <Item value="iFileCounter" priority="0" />
+      <Item value="ints" priority="2" />
+      <Item value="_AppDomain`0" priority="0" />
+      <Item value="Environment`0" priority="0" />
+      <Item value="currentMinimumDistance" priority="1" />
+      <Item value="FindDistances`0" priority="0" />
+      <Item value="marginError" priority="2" />
+      <Item value="AlgorithmChosen`0" priority="0" />
+      <Item value="marginOfError" priority="2" />
+      <Item value="MEDAlgorithmChosen`0" priority="2" />
+      <Item value="continue" priority="0" />
+      <Item value="case" priority="1" />
+      <Item value="MEDStalkerWithoutBTEnhanced`0" priority="0" />
+      <Item value="AreawidthOfConversion" priority="1" />
+      <Item value="minOfThisBM" priority="0" />
+      <Item value="areawidthOfConversion" priority="0" />
+      <Item value="Image" priority="1" />
+      <Item value="ImageSourceConverter`0" priority="1" />
+      <Item value="ImageSource`0" priority="0" />
+      <Item value="Point`0" priority="0" />
+      <Item value="HelperModule`0" priority="0" />
+      <Item value="sd" priority="0" />
+      <Item value="ImageProcessingTabHandler`0" priority="0" />
+      <Item value="GroupBox`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MEDAlgo">
+      <Item value="GetMED`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToList`1" priority="0" />
+      <Item value="Split`0" priority="2" />
+      <Item value="Trim`0" priority="2" />
+      <Item value="ToString`0" priority="1" />
+      <Item value="ToLower`0" priority="3" />
+      <Item value="ToArray`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Select`2" priority="1" />
+      <Item value="Add`0" priority="11" />
+      <Item value="Insert`0" priority="1" />
+      <Item value="ToArray`0" priority="8" />
+      <Item value="Count" priority="3" />
+      <Item value="ForEach`0" priority="0" />
+      <Item value="Min`2" priority="0" />
+      <Item value="Remove`0" priority="1" />
+      <Item value="IndexOf`0" priority="0" />
+      <Item value="RemoveAt`0" priority="0" />
+      <Item value="Reverse`0" priority="1" />
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="2" />
+      <Item value="ToArray`1" priority="1" />
+      <Item value="SingleOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="Load`0" priority="1" />
+      <Item value="GetElementsByTagName`0" priority="2" />
+      <Item value="GetElementById`0" priority="0" />
+      <Item value="DocumentElement" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNode">
+      <Item value="ChildNodes" priority="0" />
+      <Item value="InnerText" priority="1" />
+      <Item value="InnerXml" priority="1" />
+      <Item value="FirstChild" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.cs.XMLKeyboardParser">
+      <Item value="ParseKeyboard`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Char">
+      <Item value="IsUpper`0" priority="0" />
+      <Item value="IsSymbol`0" priority="1" />
+      <Item value="IsLetter`0" priority="0" />
+      <Item value="IsSeparator`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.cs.Keyboard.KeyInfo">
+      <Item value="IsUpper" priority="0" />
+      <Item value="IsShiftEnabled" priority="5" />
+      <Item value="PositionInRowIndex" priority="1" />
+      <Item value="PositionInKeyboardRow" priority="1" />
+      <Item value="KeyChar" priority="0" />
+      <Item value="PositionInLayers" priority="2" />
+      <Item value="IsSymbol" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.cs.KeyboardHandler">
+      <Item value="_keyMap" priority="0" />
+      <Item value="GetDistanceBetweenKeys`0" priority="0" />
+      <Item value="ShiftEnabledWeight" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpellingChecker.cs.KeyboardLanguage">
+      <Item value="English" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Abs`0" priority="2" />
+      <Item value="Min`0" priority="0" />
+      <Item value="Max`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.SpellingCheckerEngine.SymSpell">
+      <Item value="GetCorrectSpellSuggestions`0" priority="0" />
+      <Item value="languageString" priority="0" />
+      <Item value="EditDistanceMax" priority="1" />
+      <Item value="Verbose" priority="1" />
+      <Item value="GetCorrectSpellSuggestionsForText`0" priority="0" />
+      <Item value="_languageString" priority="3" />
+      <Item value="_lang" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.SpellingCheckerEngine.SuggestItem">
+      <Item value="Term" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="Default" priority="3" />
+      <Item value="UTF8" priority="1" />
+      <Item value="GetEncoding`0" priority="0" />
+      <Item value="ASCII" priority="3" />
+      <Item value="Convert`0" priority="0" />
+      <Item value="Unicode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpellingChecker.Keyboard.KeyboardLanguage">
+      <Item value="English" priority="2" />
+      <Item value="Arabic" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ZGTR_PorterAlgorithmApp.HelperModule">
+      <Item value="CrackTextToWords`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.Encoding">
+      <Item value="GetString`0" priority="1" />
+      <Item value="GetBytes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.BitConverter">
+      <Item value="GetBytes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Stream">
+      <Item value="Synchronized`0" priority="1" />
+      <Item value="Null" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpellingChecker.SpellingCheckerEngine.XMLIOHandler">
+      <Item value="SerializeAnObject`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpellingChecker.SpellingCheckerEngine.UserPref.XMLIOHandler">
+      <Item value="SerializeObject`1" priority="0" />
+      <Item value="DeSerializeObject`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.SpellingCheckerEngine.UserPreference">
+      <Item value="Counter" priority="0" />
+      <Item value="WordPrefered" priority="0" />
+      <Item value="ToXml`0" priority="0" />
+      <Item value="UserPreferenceXML`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.SpellingCheckerEngine.UserPref.UserPreferenceHandler">
+      <Item value="AddToXMlDb`0" priority="0" />
+      <Item value="_xmlDbPath" priority="3" />
+      <Item value="_xmlDoc" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNodeList">
+      <Item value="Count" priority="0" />
+      <Item value="GetEnumerator`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TSource">
+      <Item value="FirstChild" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XElement">
+      <Item value="SetAttributeValue`0" priority="0" />
+      <Item value="Elements`0" priority="2" />
+      <Item value="Attribute`0" priority="2" />
+      <Item value="AddFirst`0" priority="1" />
+      <Item value="Save`0" priority="2" />
+      <Item value="Attributes`0" priority="0" />
+      <Item value="Element`0" priority="5" />
+      <Item value="SetElementValue`0" priority="0" />
+      <Item value="Value" priority="1" />
+      <Item value="Add`0" priority="0" />
+      <Item value="FirstAttribute" priority="0" />
+      <Item value="Remove`0" priority="1" />
+      <Item value="FirstNode" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.Linq.XElement">
+      <Item value="Load`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XAttribute">
+      <Item value="ToString`0" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+      <Item value="MaxValue" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Initialized" priority="0" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Inlines" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Documents.InlineCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ComboBox">
+      <Item value="Items" priority="0" />
+      <Item value="SelectedIndex" priority="0" />
+      <Item value="SelectionChanged" priority="0" />
+      <Item value="DropDownClosed" priority="0" />
+      <Item value="SelectedItem" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.UIElementCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_SpellingCheckerWPFApp.TextAreaHandler">
+      <Item value="_mainWindow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_SpellingCheckerWPFApp.MainWindow">
+      <Item value="mainGrid" priority="0" />
+      <Item value="tabImageProces" priority="0" />
+      <Item value="spImagesOut" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.ImagesProcessingEngine.ImageUnitWrapper">
+      <Item value="Bitmap" priority="4" />
+      <Item value="BitmapStringStream" priority="1" />
+      <Item value="BitmapStringStreamR" priority="2" />
+      <Item value="BitmapStringStreamB" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="0" />
+      <Item value="AsEnumerable`1" priority="0" />
+      <Item value="ToList`1" priority="1" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.PicturesProcessingEngine.ImageChecker">
+      <Item value="_boundryWidth" priority="2" />
+      <Item value="_thresholdBW" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Bitmap">
+      <Item value="Clone`0" priority="0" />
+      <Item value="Save`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Color">
+      <Item value="G" priority="0" />
+      <Item value="B" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.ImagesProcessingEngine.ImageChecker">
+      <Item value="GetClosestImages`0" priority="0" />
+      <Item value="FindDistances`0" priority="0" />
+      <Item value="FindDistancesForMedRegularAlgo`0" priority="0" />
+      <Item value="FindDistancesForStalkerWithBTAlgo`0" priority="0" />
+      <Item value="FindDistancesForStalkerWithoutBTAlgo`0" priority="0" />
+      <Item value="_thresholdBW" priority="0" />
+      <Item value="FindDistancesForStalkerWithBTEnhancedAlgo`0" priority="0" />
+      <Item value="_boundryWidth" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="TotalSeconds" priority="0" />
+      <Item value="TotalMinutes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.SpellingCheckerEngine.Algorithm.MEDAlgoEnhanced">
+      <Item value="_substitutionVal" priority="0" />
+      <Item value="_currentMinimumDistance" priority="0" />
+      <Item value="GetMED`0" priority="0" />
+      <Item value="_tWord" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToChar`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpellingChecker.ImagesProcessingEngine.OrderingOption">
+      <Item value="ByGreenComp" priority="2" />
+      <Item value="ByBlueComp" priority="0" />
+      <Item value="ByRedAndBlueAndGreenComp" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpellingChecker.SpellingCheckerEngine.Algorithm.BackTracePointer">
+      <Item value="Left" priority="1" />
+      <Item value="Down" priority="1" />
+      <Item value="Diag" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.SpellingCheckerEngine.Algorithm.MEDAlgoRegularWithBT">
+      <Item value="PtrBTArr" priority="1" />
+      <Item value="GetMED`0" priority="0" />
+      <Item value="GetBackTraceArray`0" priority="1" />
+      <Item value="GetBackTraceArrayForPtrArray`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpellingChecker.SpellingCheckerEngine.Algorithm.UnitIntention">
+      <Item value="Insertion" priority="0" />
+      <Item value="Deletion" priority="1" />
+      <Item value="Substitution" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.SpellingCheckerEngine.Algorithm.MEDSmithWatermanAlgo">
+      <Item value="_substitutionVal" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpellingChecker.SpellingCheckerEngine.Algorithm.MEDAlgoRegularWithBT">
+      <Item value="GetBackTraceArray`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.SpellingCheckerEngine.Algorithm.MEDNeedlemanWunschAlgo">
+      <Item value="GetMED`0" priority="0" />
+      <Item value="PtrBTArr" priority="1" />
+      <Item value="_matchCost" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.SpellingCheckerEngine.Algorithm.MEDNeedlemanWunschAlgoMod">
+      <Item value="_nS" priority="2" />
+      <Item value="_d" priority="0" />
+      <Item value="_mT" priority="2" />
+      <Item value="GetBackTraceArray`0" priority="1" />
+      <Item value="PtrBTArr" priority="0" />
+      <Item value="GetBackTraceArrayBestBorders`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.SpellingCheckerEngine.Algorithms.MEDAlgos.MEDSmithWatermanAlgo">
+      <Item value="GetBackTraceArray`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.SpellingCheckerEngine.Algorithms.MEDAlgos.MEDAlgoRegularWithBTStalker">
+      <Item value="_tWord" priority="1" />
+      <Item value="_sWord" priority="0" />
+      <Item value="_marginOfError" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpellingChecker.ImagesProcessingEngine.MEDAlgorithmChosen">
+      <Item value="MEDRegular" priority="5" />
+      <Item value="MEDStalkerWithoutBT" priority="2" />
+      <Item value="MEDStalkerWithBTEnhanced" priority="1" />
+      <Item value="MEDStalkerWithoutBTEnhanced" priority="1" />
+      <Item value="MEDStalkerWithBT" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpellingChecker.ImagesProcessingEngine.OrderingByColorOption">
+      <Item value="ByRedAndBlueAndGreenComp" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.SpellingCheckerEngine.Algorithms.MEDAlgos.MEDStalkerWithoutBT">
+      <Item value="_substitutionVal" priority="0" />
+      <Item value="_tWord" priority="0" />
+      <Item value="MarginOfError" priority="0" />
+      <Item value="AreawidthOfConversion" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Octree_ZGTR_WPFApp.Engine.GUI.ImageContainer">
+      <Item value="_image" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Image">
+      <Item value="Source" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.ImageSourceConverter">
+      <Item value="ConvertFrom`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ZGTR_SpellingCheckerWPFApp.GUIControllers.HelperModule">
+      <Item value="SaveJpegImage`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.SaveFileDialog">
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

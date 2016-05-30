@@ -1,0 +1,499 @@
+0	1	0	1	forlorn#a#1 godforsaken#a#2 lorn#a#1 desolate#a#2
+0	1	0	1	rotten#a#2
+1	0	1	0	intimate#a#2 cozy#a#2 informal#a#4
+0	0	0	0	federal#a#1
+0	0	0	0	federal#a#4
+0	1	0	1	phony#a#1 bogus#a#1 bastard#a#2 phoney#a#1 fake#a#1
+0	1	0	1	stinking#a#1 stinky#a#1 crappy#a#1 lousy#a#1 shitty#a#1 icky#a#1 rotten#a#1
+1	0	1	0	beneficent#a#2 benevolent#a#1 gracious#a#2
+1	0	1	0	worthy#a#5
+0	1	0	1	despicable#a#2 unworthy#a#2 vile#a#1 ugly#a#4
+0	1	0	1	ugly#a#3 surly#a#1
+1	0	1	0	worthy#a#4 noble#a#1 solid#a#8 upstanding#a#1
+0	1	0	1	forlorn#a#2
+0	0	0	0	rampant#a#2 rearing#a#1
+0	0	0	0	classifiable#a#1 distinctive#a#2
+1	0	1	0	gallant#a#3 majestic#a#2 lofty#a#3 proud#a#2
+0.5	0	0.5	0	palatial#a#2
+0.5	0	0.5	0	wise_to#a#1 knowing#a#1 wise#a#3
+0	1	0	1	unknowledgeable#a#1 unwitting#a#3 unknowing#a#1 ignorant#a#6
+0	0	0	0	subsequent#a#1
+0.25	0	0.13	0.13	surrogate#a#1 foster#a#1
+0	1	0	1	misbegot#a#1 misbegotten#a#1 bastardly#a#1 spurious#a#2 bastard#a#1
+0	1	0	1	loveless#a#2
+0	1	0	1	loveless#a#1
+1	0	0.75	0	overwhelming#a#2 consuming#a#1
+0	0.25	0.13	0.13	untold#a#1
+0	0	0	0	inactive#a#11 still#a#1 motionless#a#1 static#a#2
+0.25	0.25	0.38	0.38	indispensable#a#2 essential#a#1
+1	0	1	0	together#a#1
+0.5	0	0.13	0.13	majestic#a#3 regal#a#1 purple#a#3 royal#a#4 imperial#a#3
+0	0	0	0	federal#a#3 union#a#1
+0.75	0	1	0	cheerful#a#2 pollyannaish#a#1 upbeat#a#1
+1	0	1	0	tremendous#a#2 terrific#a#2 marvellous#a#1 wonderful#a#1 wondrous#a#1 rattling#a#1 howling#a#2 fantastic#a#2 marvelous#a#1
+0	1	0	1	tender#a#2 sore#a#1 sensitive#a#4
+0	0.75	0	0.75	incautious#a#3 unguarded#a#2
+0.75	0	0.5	0	executable#a#1 viable#a#1 workable#a#1 feasible#a#1 practicable#a#2
+1	0	0.75	0	gifted#a#1 talented#a#1
+0.25	0	0.25	0	comprehensive#a#2
+1	0	1	0	sensible#a#4 wise#a#2 judicious#a#2
+0	0.5	0	0.75	irrational#a#1
+0.38	0.38	0.38	0.38	overwhelming#a#1 overpowering#a#1
+1	0	1	0	worthy#a#3
+0	0.75	0	0.75	purple#a#2 over-embellished#a#1 embellished#a#1 empurpled#a#1
+0	1	0	1	frightful#a#1 atrocious#a#3 ugly#a#6 horrible#a#1 horrifying#a#1
+0	1	0	1	deplorable#a#3 reprehensible#a#1 criminal#a#2 condemnable#a#1
+0	1	0	1	menacing#a#1 forbidding#a#2 minacious#a#1 threatening#a#1 sinister#a#1 ominous#a#1 minatory#a#1 baleful#a#2 ugly#a#5
+0	0	0	0	advanced#a#8 in_advance#a#1 advance#a#2
+0	0	0	0	sensible#a#2 sensitive#a#3
+0	0	0.25	0.25	sensitive#a#1
+1	0	1	0	sensitive#a#2
+0	1	0	1	assumptive#a#1 assuming#a#1 presumptuous#a#1
+0	0	0	0	plural#a#1
+0	0	0	0	hundred#a#1 a_hundred#a#1 c#a#1 one_hundred#a#1 100#a#1
+0	0	0	0	both#a#1
+0	1	0	1	inexperienced#a#2 ignorant#a#3
+0	1	0	1	decayed#a#2 rotten#a#3 rotted#a#1
+0	0.75	0	0.75	explosive#a#2 volatile#a#2
+0	1	0	1	ugly#a#1
+1	0	0.75	0	beneficent#a#1
+1	0	1	0	olympian#a#3 majestic#a#1
+0.5	0	0.5	0	so#a#2 in_order#a#2
+0	0	0.25	0	truthful#a#2 so#a#1
+0	1	0	1	untrustworthy#a#1 untrusty#a#1
+0	0.5	0	0.5	ignorant#a#5 unversed#a#1
+0	0	0	0	volatile#a#1
+0	0	0.75	0	unpaid#a#2 volunteer#a#1
+0	0.25	0	0.75	unprotected#a#2 unguarded#a#1
+1	0	1	0	wise#a#1
+1	0	1	0	worthy#a#1
+0	0	0	0	electrostatic#a#1 static#a#3
+0	0	0	0	federal#a#2
+0	0	0	0	irrational#a#2
+0	0	0	0	polish#a#1
+0.25	0	0	0	palatial#a#1
+0	0.5	0	0.5	volatile#a#4
+0.13	0.13	0	0.25	stable#a#5 unchanging#a#3 static#a#4
+0	0	0.13	0.13	typical#a#2 distinctive#a#1
+0	0	0	0	distinguishing#a#1 identifying#a#1 distinctive#a#3
+1	0	1	0	eleemosynary#a#1 benevolent#a#5 beneficent#a#3 philanthropic#a#1
+1	0	1	0	cheerful#a#1
+0	0	0	0	purple#a#1 violet#a#1 purplish#a#1
+0	0.25	0	0.25	sensitive#a#5
+0	0.75	0	1	cozy#a#3
+1	0	1	0	cosy#a#1 cozy#a#1 snug#a#4
+0.5	0	1	0	comprehensive#a#1
+0.25	0	0.25	0	intelligible#a#1 understandable#a#1 apprehensible#a#1 graspable#a#1 perceivable#a#2
+0.5	0	1	0	comprehensive#a#3
+0	0.25	0.13	0.13	ignorant#a#4 innocent#a#5
+0	1	0	1	fickle#a#1 volatile#a#3
+0	1	0	1	rampant#a#1
+1	0	0.75	0	exact#a#2 accurate#a#2 precise#a#2
+0	0	0	0	disused#a#1 obsolete#a#2
+0	0.25	0	0.25	outdated#a#1 out-of-date#a#1 obsolete#a#1 superannuated#a#3
+1	0	1	0	wise#a#4 diplomatic#a#3
+0.5	0	0.5	0	considered#a#2 wise#a#5
+0	0.75	0	1	ugly#a#2
+0.13	0.13	0	0.75	unchanging#a#1 static#a#1
+0.25	0	0.25	0	beforehand#a#1 advance#a#1
+0	0.25	0	0.25	illiterate#a#2 ignorant#a#2
+0	0.75	0	0.75	ignorant#a#1 unlettered#a#2 unenlightened#a#3 unlearned#a#3 nescient#a#2
+0	0.75	0	0.75	impetuous#a#2
+0.25	0	0	0	flexible#a#4
+0	0.25	0	0.25	indispensable#a#3
+1	0	1	0	suitable#a#4 desirable#a#2 worthy#a#2
+0	0.5	0	0.5	unentitled#a#1 unqualified#a#3
+0	0	0	0	abstract#a#4
+0.75	0	0.5	0	harmonious#a#2 proportionate#a#3 symmetrical#a#2
+0.25	0.25	0.38	0.38	indispensable#a#1
+0.25	0	0.25	0	exact#a#1
+0.25	0.25	0.25	0.25	unexpected#a#1
+1	0	1	0	hot#a#7 blistering#a#3 red-hot#a#5
+1	0	1	0	hot#a#17
+0	0.25	0	0.75	particular#a#6 finicky#a#1 finical#a#1 fussy#a#3
+0	1	0	1	untoward#a#2 adverse#a#1 inauspicious#a#2 harmful#a#5
+0	0	0.25	0	flexile#a#1 flexible#a#2
+0.5	0	0.25	0.25	flexible#a#1
+0.25	0	0.5	0	compromising#a#1 flexible#a#5 conciliatory#a#1
+1	0	1	0	flexible#a#3 pliable#a#2 pliant#a#2 elastic#a#2
+0.25	0	0.75	0	volunteer#n#2 unpaid_worker#n#1
+0	0	0.5	0	voluntary#n#1 military_volunteer#n#1 volunteer#n#1
+0	0.25	0.38	0.38	worthy#n#1
+0	0	0	0	foster#n#1 stephen_foster#n#1 stephen_collins_foster#n#1
+0	0	0	0	investment#n#1 investing#n#1
+0	0	0	0	governing#n#1 government_activity#n#1 government#n#3 governance#n#2
+0.5	0	0.25	0	rearing#n#2 nurture#n#2 bringing_up#n#1 fosterage#n#2 upbringing#n#2 raising#n#3 fostering#n#2 breeding#n#3
+0	0	0	0	wise#n#3 isaac_mayer_wise#n#1
+0	0	0	0	wise#n#2 stephen_samuel_wise#n#1
+0	0.75	0	0.75	tempest#n#2
+0.75	0	0.75	0	placation#n#1 conciliation#n#3 propitiation#n#1
+0	0.25	0	0.5	case#n#1 lawsuit#n#1 cause#n#5 suit#n#1 causa#n#1
+0	0	0	0	wheat#n#1 corn#n#5
+0	0	0	0	indian_corn#n#1 maize#n#1 corn#n#1 zea_mays#n#1
+0	0	0	0	corn#n#2
+0	1	0	1	sin#n#6 hell#n#5
+0	0	0	0	safety#n#4 base_hit#n#1 bingle#n#1
+0	0	0	0	runner#n#5 stolon#n#1 offset#n#3
+0	0	0	0	fruit#n#1
+0	0	0	0	disbursement#n#1 disbursal#n#1 expense#n#1
+0	0	0	0	expense#n#3
+0	0	0	0	stake#n#1 interest#n#6
+0	0	0	0	interest#n#4
+0	0	0	0	investment_funds#n#1 investment#n#2
+0	0	0	0	cash_advance#n#1 advance#n#5
+0	0	0	0	pension#n#1
+0	0	0	0	assessment#n#2
+0	0	0	0	mesh#n#1
+0	0	0	0	centred#n#1 century#n#2 one_c#n#1 100#n#1 c#n#6 hundred#n#1
+0	0	0.13	0.13	sea#n#2 ocean#n#2
+0	0.25	0	0.5	contradiction#n#1
+0	0	0	0	sheet#n#4 plane#n#2
+0	0	0	0	circle#n#1
+0	0	0	0	circle#n#3
+0.75	0	0.75	0	conciliation#n#1
+0	1	0	1	storm#n#2 tempest#n#1
+0.13	0.13	0	0	meshing#n#3 mesh#n#5 interlock#n#1 interlocking#n#2
+0.38	0.38	0.38	0.38	fervour#n#1 fervor#n#2 inflammation#n#2 excitation#n#1 excitement#n#2
+0	0.75	0	1	incompetence#n#2
+0	0.5	0	1	cecity#n#1 sightlessness#n#1 blindness#n#1
+0	1	0	1	affliction#n#2
+0	0.5	0	0.75	corn#n#4 clavus#n#1
+0	1	0	1	wasting#n#2 wasting_away#n#1 atrophy#n#1
+0	1	0	1	difficulty#n#3
+0.25	0	0	0	purple#n#2
+0	1	0	1	suffering#n#2 woe#n#1
+0	1	0	1	anguish#n#2
+1	0	1	0	refinement#n#1 culture#n#6 polish#n#2 cultivation#n#3 finish#n#9
+0	0.75	0	1	defect#n#1
+0	1	0	1	defect#n#3 fault#n#5 flaw#n#1
+1	0	1	0	prosperity#n#2 successfulness#n#1
+0	1	0	1	affliction#n#1
+1	0	1	0	prosperity#n#1
+1	0	1	0	safety#n#1
+1	0	1	0	soundness#n#1
+0	0	0	0	investment#n#3
+0	0	0	0	liquor#n#2
+0	0	0	0	polish#n#3
+0	0	0	0	volatile#n#1
+0	0	0	0	safety#n#6
+0	0	0	0	exchange#n#9 substitution#n#2 commutation#n#4
+0	0	0	0	investment#n#5 investiture#n#2
+0	0	0	0	noesis#n#1 knowledge#n#1 cognition#n#1
+0	1	0	1	slaying#n#1 murder#n#1 execution#n#7
+0	1	0	1	mass_murder#n#1 massacre#n#1 butchery#n#3 slaughter#n#3 carnage#n#1
+0	0	0	0	blue_runner#n#1 runner#n#9 caranx_crysos#n#1
+0	0	0	0	butchery#n#1 abattoir#n#1 slaughterhouse#n#1 shambles#n#2
+0.5	0	0.25	0	forward_motion#n#1 progress#n#2 advancement#n#2 onward_motion#n#1 procession#n#3 advance#n#4 progression#n#3
+0	1	0	1	mongrel#n#1 bastard#n#3
+0	0	0	0	lap#n#5 circle#n#4 circuit#n#6
+0	0	0	0	cell#n#3 electric_cell#n#1
+0	0	0.13	0.13	cell#n#7 jail_cell#n#1 prison_cell#n#1
+0	0	0	0	cubicle#n#1 cell#n#6
+0	0	0	0	cell#n#1
+0	0	0	0	mobile_phone#n#1 cellphone#n#1 cell#n#5 cellular_phone#n#1 cellular_telephone#n#1
+0	0	0	0	circle#n#8 round#n#14
+0	0	0	0	circle#n#7 dress_circle#n#1
+0	0	0	0	rubber#n#3 condom#n#1 safety#n#5 prophylactic#n#2 safe#n#3
+0	0	0	0	cosey#n#1 tea_cozy#n#1 tea_cozie#n#1 tea_cozey#n#1 cosy#n#1 cozy#n#1 tea_cosy#n#1 cozie#n#1 tea_cosey#n#1 cozey#n#1
+0.25	0	0.5	0	guard#n#3 safety_device#n#1 safety#n#3
+0.13	0.13	0.13	0.13	advance#n#6 rise#n#10
+0	0	0	0	marker#n#1
+0	0	0	0	marker#n#3
+0	0	0	0	nest#n#2
+0	0	0	0	nest#n#5
+0	0	0	0	mesh#n#4 network#n#3 meshwork#n#1 meshing#n#2 net#n#6
+0	0	0	0	guest#n#4 node#n#7 client#n#3
+0	0	0	0	winding-sheet#n#1 winding-clothes#n#1 pall#n#2 cerement#n#1 shroud#n#3
+0	1	0	1	forget_me_drug#n#1 roofy#n#1 r-2#n#1 rope#n#2 mexican_valium#n#1 circle#n#6 roach#n#2 rophy#n#1
+0	0	0	0	runner#n#8
+0	0	0	0	runner#n#7
+0	0	0	0	canvass#n#3 sheet#n#8 sail#n#1 canvas#n#5
+0	0	0	0	sheet#n#3 bed_sheet#n#1
+0	0	0	0	weather_sheet#n#1 shroud#n#2 mainsheet#n#1 tack#n#4 sheet#n#7
+0	0	0	0	flat_solid#n#1 sheet#n#6
+0	0	0	0	shroud#n#1
+1	0	0.75	0	pursuit#n#3 interest#n#5 pastime#n#1
+0	0	0	0	bowl#n#5 sports_stadium#n#1 arena#n#3 stadium#n#1
+0	0	0	0	suit#n#2 suit_of_clothes#n#1
+0	0	0	0	suit#n#3
+0	0	0	0	bathe#n#1
+0	0	0	0	circle#n#5 roundabout#n#1 rotary#n#1 traffic_circle#n#1
+0	0	0	0	fruit#n#3 yield#n#2
+0	0.75	0	0.5	corn#n#7
+0	0.75	0	1	mar#n#2 defect#n#4 blemish#n#1
+0	1	0	1	difficultness#n#1 difficulty#n#4
+1	0	1	0	worthiness#n#1
+1	0	1	0	brilliance#n#2 splendor#n#2 splendour#n#2 grandness#n#3 magnificence#n#2 grandeur#n#1
+1	0	1	0	gallantry#n#1 valiancy#n#1 valour#n#1 valor#n#1 valorousness#n#1 valiance#n#1 heroism#n#1
+0	0	0	0	rearing#n#1 nurture#n#1 raising#n#2
+0	0	0	0	wise#n#1
+0.25	0	1	0	blaze#n#4 brilliance#n#1 glare#n#1
+0.25	0	0.25	0	gloss#n#3 burnish#n#1 glossiness#n#1 polish#n#1
+0	0	0	0	purple#n#1 purpleness#n#1 empurpled#n#1
+0.75	0	1	0	soundness#n#3 firmness#n#1
+0	0	0	0	cell#n#2
+0.38	0.38	0.25	0.25	immenseness#n#1 greatness#n#2 enormousness#n#1 immensity#n#1 vastness#n#1 sizeableness#n#1 grandness#n#2
+0	0	0	0	sake#n#1 interest#n#3
+0	0	0	0	assessment#n#3
+0	0.75	0	1	incompetency#n#1 incompetence#n#1
+1	0	1	0	wiseness#n#1 wisdom#n#4 soundness#n#2
+0	1	0	1	defect#n#2 shortcoming#n#1
+0.75	0	0.5	0	interestingness#n#1 interest#n#2
+0	0	0	0	ankle_joint#n#1 mortise_joint#n#1 ankle#n#1 articulatio_talocruralis#n#1
+1	0	1	0	genius#n#2 brilliance#n#3
+0	1	0	0.75	hel#n#2 hades#n#2 hell#n#4 infernal_region#n#2 underworld#n#2 scheol#n#1 netherworld#n#1
+0	1	0	1	hell#n#3 nether_region#n#1 inferno#n#3 perdition#n#1 the_pit#n#1 infernal_region#n#1
+0	0	0	0	government#n#2
+0.5	0	0.5	0	involvement#n#3 interest#n#1
+0	1	0	1	difficulty#n#2
+0	0	0	0	mesh#n#3 mesh_topology#n#1
+0	0	0	0	appraisal#n#1 assessment#n#1
+0	0	0	0	government#n#4 political_science#n#1 politics#n#2
+0	0	0	0	butchering#n#1 butchery#n#2
+0	0	0	0	sheet_of_paper#n#1 sheet#n#2 piece_of_paper#n#1
+0	0	0	0	tabloid#n#2 rag#n#4 sheet#n#5
+0	1	0	1	difficulty#n#1 trouble#n#4
+0	0	0	0	plural_form#n#1 plural#n#1
+0	0.5	0	0.75	injunction#n#2 enjoinment#n#1 enjoining#n#1 cease_and_desist_order#n#1
+0.5	0	0.5	0	hand_clapping#n#1 clapping#n#1 applause#n#1
+0	1	0	1	static#n#2
+0	1	0	1	scorn#n#2 contempt#n#3
+0	0.25	0	0.5	story#n#6 fib#n#1 tarradiddle#n#1 tale#n#2 taradiddle#n#1
+0	0	0	0	soh#n#1 sol#n#3 so#n#1
+0	0	0	0	polish#n#4
+0.5	0	0.75	0	conciliation#n#2
+0.13	0.13	0.13	0.13	approach#n#6 advance#n#3 overture#n#3 feeler#n#2
+0	1	0	1	injunction#n#1
+0	0	0.13	0.13	suit#n#6
+0.75	0	0.75	0	courtship#n#1 wooing#n#1 courting#n#1 suit#n#5
+0	0	0	0	examination#n#2 test#n#5 exam#n#1
+0	0.25	0	0.25	contradiction#n#3
+0	0	0	0	contradiction_in_terms#n#1 contradiction#n#2
+0	0	0	0	story#n#1 narrative#n#1 tale#n#1 narration#n#1
+0	0	0	0	marking#n#1 mark#n#2 marker#n#2
+0.13	0.13	0.13	0.13	fruit#n#2
+0	1	0	1	affliction#n#3
+0	1	0	1	blaze#n#2 hell#n#2
+0	0	0	0	interlocking#n#1 mesh#n#2 engagement#n#6 meshing#n#1
+1	0	1	0	improvement#n#2 advance#n#2 betterment#n#1
+0	1	0	1	misbehaviour#n#1 misbehavior#n#1 misdeed#n#1
+0	1	0	1	hell#n#6 blaze#n#3
+0	1	0	1	expense#n#2
+0	1	0	1	withering#n#1 atrophy#n#2
+0	0	0	0	atmospheric_static#n#1 atmospherics#n#1 static#n#1
+0	0	0	0	substitution#n#1 switch#n#2 permutation#n#1 replacement#n#1 transposition#n#2
+0	0	0	0	progression#n#2 advance#n#1 progress#n#3
+1	0	0.38	0.38	ardour#n#3 ardor#n#3 fervidness#n#1 fervency#n#1 fervour#n#2 fervor#n#1 fire#n#6
+0	1	0	1	torture#n#1 torment#n#2 anguish#n#1
+0	1	0	1	contempt#n#1 disdain#n#1 despite#n#1 scorn#n#1
+0	0.75	0	1	gloat#n#1 glee#n#2 gloating#n#1
+0	1	0	1	woefulness#n#1 woe#n#2
+0	0	0	0	pot_likker#n#1 pot_liquor#n#1 liquor#n#3
+0	0	0	0	edible_corn#n#1 corn#n#3
+0	0	0	0	strong_drink#n#1 spirits#n#1 booze#n#1 john_barleycorn#n#1 liquor#n#1 hard_drink#n#1 hard_liquor#n#1
+0	0	0	0	corn#n#6 corn_whisky#n#1 corn_whiskey#n#1
+0	0	0	0	interest_group#n#1 interest#n#7
+0	0	0	0	authorities#n#1 government#n#1 regime#n#1
+0	0	0	0	set#n#5 circle#n#2 lot#n#5 band#n#1
+0	1	0	1	nest#n#4
+0	0	0	0	investment#n#4
+0	0	0	0	cell#n#4 cadre#n#1
+0	1	0	1	hell#n#1 hell_on_earth#n#1 snake_pit#n#1 the_pits#n#1 inferno#n#1 hellhole#n#1
+1	0	1	0	nest#n#3
+1	0	0.75	0	refuge#n#1 safety#n#2
+0	0	0	0	zenith#n#1
+0	0	0	0	cameroun#n#1 republic_of_cameroon#n#1 cameroon#n#2
+0.13	0.13	0.13	0.13	arrest#n#1 catch#n#10 taking_into_custody#n#1 pinch#n#7 collar#n#5 apprehension#n#4
+0	0	0	0	judgement#n#7 assessment#n#4 judgment#n#2
+0	0	0	0	egyptian_empire#n#1 egypt#n#2
+0	0	0	0	egypt#n#1 arab_republic_of_egypt#n#1 united_arab_republic#n#1
+0	0	0	0	korean_peninsula#n#1 choson#n#1 korea#n#1
+0.13	0.13	0.13	0.13	discard#n#3 throwing_away#n#1
+0	0	0	0	ct#n#2 computerized_axial_tomography#n#1 computed_axial_tomography#n#1 cat#n#8 computerized_tomography#n#1 computed_tomography#n#1
+0	0	0	0	discard#n#2
+0	0	0	0	aloha_state#n#1 hi#n#2 hawaii#n#1
+0	0	0	0	hawaii_island#n#1 hawaii#n#2
+0	0	0	0	cameroon#n#1
+0	0	0	0	wherefore#n#1 why#n#1
+0	0	0	0	bubble#n#1
+0.25	0	0.25	0	catch#n#4
+1	0	1	0	rescue#n#1 deliverance#n#1 saving#n#2 delivery#n#6
+0	0.25	0	0.25	discard#n#1
+0	0	0	0	hillside#n#1
+0	0	0	0	nest#n#1
+0	0	0	0	ocean#n#1
+0	0	0	0	sheet#n#1
+0	0	0	0	spark#n#6
+0	1	0	1	misuse#n#1 abuse#n#3
+0.25	0	0.5	0	consultant#n#1 adviser#n#1 advisor#n#1
+0	1	0	1	mother_fucker#n#1 sob#n#2 bastard#n#1 shit#n#5 asshole#n#1 prick#n#1 motherfucker#n#1 whoreson#n#2 dickhead#n#1 son_of_a_bitch#n#1 cocksucker#n#2
+0	0	0	0	base_runner#n#1 runner#n#4
+0	1	0	1	bastard#n#2 love_child#n#1 by-blow#n#1 illegitimate#n#1 illegitimate_child#n#1 whoreson#n#1
+0	1	0	1	cat#n#3
+1	0	1	0	catch#n#3 match#n#6
+0	0	0	0	customer#n#1 client#n#2
+0	0	0	0	client#n#1
+0	0	0	0	dancer#n#1 professional_dancer#n#1
+0	0	0	0	dancer#n#2 social_dancer#n#1
+0.25	0.25	0.25	0.25	hombre#n#1 cat#n#2 bozo#n#2 guy#n#1
+0	0	0	0	relation#n#3 relative#n#1
+0	1	0	1	liar#n#1 prevaricator#n#1
+0	0	0	0	mineworker#n#1 miner#n#1
+0	0	0	0	fed#n#1 federal_official#n#1 federal#n#2
+0	0	0	0	union_soldier#n#1 federal#n#1 federal_soldier#n#1
+0	0	0	0	marriage#n#3 marriage_ceremony#n#1 wedding#n#2
+0	0	0	0	religious#n#1
+0	0	0	0	research_worker#n#1 researcher#n#1 investigator#n#1
+0	0	0	0	runner#n#3
+0	0	0	0	runner#n#2
+0	0	0	0	runner#n#6
+1	0	1	0	shark#n#3
+0	1	0	1	shark#n#2
+0	1	0	1	moon-curser#n#1 contrabandist#n#1 runner#n#1 moon_curser#n#1 smuggler#n#1
+0	0	0	0	suit#n#4
+0	0	0	0	how_come#r#1 why#r#1
+0	0	0	0	together#r#5
+0.25	0	0.25	0	unitedly#r#1 together#r#6 in_collaboration#r#1
+0.25	0	0.25	0	in_agreement#r#1 in_concert#r#1 together#r#7
+0	0	0	0	together#r#2
+0	0	0	0	together#r#3
+0	0	0	0	together#r#1 jointly#r#2 collectively#r#1 put_together#r#1 conjointly#r#1
+0	0	0	0	and_then#r#1 so#r#8 then#r#1 and_so#r#1
+0	0	0	0	so#r#2
+0	0	0	0	thusly#r#1 thus#r#2 so#r#6
+0	0	0	0	primarily#r#2 in_the_first_place#r#2
+0.38	0.38	0	0	so#r#1
+0	0	0	0	so#r#7
+0	0	0	0	so#r#3
+0	0	0	0	so#r#4
+0	0	0	0	so#r#5
+0	0	0	0	indeed#r#1 so#r#9
+0.25	0	0.25	0	together#r#4
+0	0	0	0	presumably#r#1 presumptively#r#1
+0	0	0	0	principally#r#1 chiefly#r#1 mainly#r#1 in_the_main#r#1 primarily#r#1
+0	0	0	0	singly#r#1
+0	0	0	0.25	criticise#v#2 criticize#v#2
+0	0.75	1	0	overpower#v#1 overmaster#v#1 overwhelm#v#4
+0.75	0	0.75	0	pull_ahead#v#1 make_headway#v#1 advance#v#6 get_ahead#v#1 gain_ground#v#1 win#v#3 gain#v#5
+0	0	0	0	corn#v#1
+0.5	0	0.38	0.38	pander#v#1 gratify#v#2 indulge#v#2
+0	0	0.25	0	nourish#v#1 nurture#v#3 sustain#v#3
+0	0.75	0	1	touch#v#11 disturb#v#3
+0	0	0	0	shine#v#10 smoothen#v#2 polish#v#1 smooth#v#2
+0	0	0	0	shroud#v#3
+0	0	0	0	sheet#v#2
+0	0.25	0	0.25	overwhelm#v#3 submerge#v#2 drown#v#1
+0	0	0	0	nest#v#4
+0	0.25	0	0.25	disturb#v#2 agitate#v#6 raise_up#v#1 commove#v#2 stir_up#v#3 vex#v#3 shake_up#v#5
+0.25	0	0.25	0	draw_close#v#1 nestle#v#1 nest#v#3 cuddle#v#1 nuzzle#v#1 snuggle#v#1
+0	0.5	0	0.5	enmesh#v#1 ensnarl#v#1 mesh#v#4
+0	0	0	0	mesh#v#1 operate#v#6 engage#v#10 lock#v#2
+0	0	0	0	encircle#v#2 circle#v#4
+0	0	0	0	augment#v#1
+0	0	0	0	nest#v#2
+0	0	0	0	augment#v#2
+0	0	0	0	gain#v#6 advance#v#12
+0.25	0	0.25	0	bathe#v#2
+0	0.25	0	0.5	cover#v#20 enshroud#v#1 hide#v#3 shroud#v#1
+0	0	0	0	fruit#v#2
+0	0	0	0	fruit#v#1
+0	0.25	0	0.5	feign#v#2 assume#v#7 simulate#v#3 sham#v#1
+0	0	0	0	recreate#v#4
+0	1	0	1	disturb#v#1 trouble#v#1 upset#v#3
+0	1	0	1	disdain#v#1 despise#v#1 scorn#v#1 contemn#v#1
+0	1	0	1	hurt#v#3 anguish#v#2 pain#v#2
+0	1	0	1	anguish#v#1
+0	1	0	1	enrage#v#1
+0.38	0.38	0	1	overpower#v#2 whelm#v#1 sweep_over#v#1 overcome#v#3 overtake#v#3 overwhelm#v#1
+1	0	1	0	cheer#v#1 embolden#v#1 hearten#v#1 recreate#v#3
+0	1	0	1	dishearten#v#1 put_off#v#3
+1	0	1	0	interest#v#1
+0	0	0	0	circle#v#1
+0	0	0	0	advance#v#1 march_on#v#1 pass_on#v#3 move_on#v#1 progress#v#2 go_on#v#3
+0	0	0	0	bring_forward#v#1 advance#v#5
+0	0	0	0	advance#v#11 set_ahead#v#1
+0	0	0	0	circulate#v#5 circle#v#2
+0.75	0	0	1	gloat#v#2
+0	1	0	1	rescue#v#2
+0.13	0.13	0.13	0.13	cast_out#v#2 throw_out#v#2 dispose#v#2 cast_away#v#1 toss_away#v#1 throw_away#v#1 cast_aside#v#1 discard#v#1 chuck_out#v#1 fling#v#4 toss_out#v#1 toss#v#5 put_away#v#2
+0	0	0	0	pension_off#v#2 pension#v#1
+0	0	0	0	advance#v#10
+1	0	1	0	fly_high#v#2 thrive#v#2 prosper#v#2 flourish#v#2
+0	1	0	1	smuggle#v#1
+0	0	0	0	dedicate#v#2
+1	0	1	0	kick_upstairs#v#1 promote#v#2 upgrade#v#3 advance#v#9 raise#v#14 elevate#v#1
+0	0	0.25	0	cooperate#v#1 get_together#v#3 join_forces#v#1 collaborate#v#1
+0	1	0	1	collaborate#v#2
+1	0	1	0	play#v#11 recreate#v#2
+0.25	0	0.75	0	volunteer#v#3
+0.75	0	0.75	0	offer#v#3 volunteer#v#2
+0.5	0	0.5	0	certify#v#4 indorse#v#3 endorse#v#3
+1	0	1	0	recreate#v#1 revivify#v#1 repair#v#5 quicken#v#5 revive#v#2 renovate#v#3 animate#v#4 reanimate#v#1 vivify#v#1
+0.25	0	1	0	mesh#v#3
+1	0	1	0	get_along#v#3 get_on#v#6 come_on#v#3 shape_up#v#1 come_along#v#2 progress#v#1 advance#v#7
+0	1	0	1	bump_off#v#1 remove#v#7 murder#v#1 dispatch#v#3 slay#v#1 hit#v#15 polish_off#v#2
+0	0	0	0	bear#v#10 acquit#v#2 carry#v#13 comport#v#2 deport#v#1 behave#v#2 conduct#v#3
+0	0	0.25	0	bring_up#v#2 rear#v#2 nurture#v#2 parent#v#1 raise#v#6
+0.25	0	0.25	0	foster#v#2
+1	0	1	0	deliver#v#4 rescue#v#1
+0.75	0	1	0	foster#v#1 further#v#1
+1	0	0.75	0	advance#v#4 encourage#v#1 boost#v#3 further#v#2 promote#v#1
+0.75	0	0.5	0	back#v#3 indorse#v#2 second#v#1 endorse#v#2
+0	0.5	0	0.75	desert#v#2 defect#v#1
+0	1	0	1	disturb#v#5
+0	0	0	0	nest#v#1
+0	0	0	0	concern#v#2 worry#v#4 interest#v#2 occupy#v#5
+0.13	0.13	0.13	0.13	interest#v#3 matter_to#v#1
+0	0	0.25	0	beseem#v#1 suit#v#3 befit#v#1
+0	0	0	0	circle#v#3 surround#v#1 encircle#v#1 environ#v#1 round#v#3 ring#v#4
+0	0	0.13	0.13	suit#v#4 become#v#4
+1	0	0.5	0	suit#v#2
+0	0	0	0.25	shroud#v#2
+0	0.25	0	0.25	sheet#v#1
+0	0	0	0	empurple#v#1 purple#v#2 purpurate#v#1
+0	0	0	0	purple#v#1
+0.75	0	0.5	0	get_ahead#v#2 expand#v#4 prosper#v#1 flourish#v#1 thrive#v#1 boom#v#5
+0	0	0	0	bathe#v#1
+0	0	0	0	bathe#v#3 bath#v#1
+0.13	0.13	0.25	0.25	elaborate#v#3 complicate#v#2 refine#v#2 rarify#v#1
+0.25	0	0.25	0	refine#v#6
+0	0.25	0	0.25	refine#v#5
+0.25	0	0.75	0	mesh#v#2 interlock#v#1
+1	0	1	0	brush_up#v#2 polish#v#3 round#v#6 polish_up#v#1 round_off#v#2
+1	0	1	0	fine-tune#v#1 refine#v#1 polish#v#2 down#v#6
+1	0	0.5	0	refine#v#4 rectify#v#2
+0.25	0	0.25	0	refine#v#3
+0	0	0	0	advance#v#3 supercharge#v#1 boost#v#4
+1	0	1	0	facilitate#v#1 alleviate#v#2 ease#v#3
+0	0	0	0	corn#v#2
+0	1	0	1	mutilate#v#2 murder#v#2 mangle#v#3
+0.5	0	0.75	0	advance#v#8
+1	0	1	0	alleviate#v#1 assuage#v#3 palliate#v#2 relieve#v#1
+0	0	0	0	dedicate#v#4
+0	1	0	0.75	overwhelm#v#2 deluge#v#2 flood_out#v#1
+0	0.75	0	1	take#v#26 claim#v#5 exact#v#2
+0	1	0	1	disdain#v#2 spurn#v#1 pooh-pooh#v#2 scorn#v#2 turn_down#v#3 freeze_off#v#1 reject#v#4
+0	0.75	0	0.5	knock#v#6 criticize#v#1 pick_apart#v#1 criticise#v#1
+0	1	0	1	dissemble#v#1 feign#v#1 sham#v#2 affect#v#4 pretend#v#1
+0	0.75	0	1	denounce#v#4 grass#v#6 snitch#v#2 rat#v#6 stag#v#2 shop#v#4 shit#v#1 give_away#v#4 betray#v#5 tell_on#v#1
+0	0.75	0	0.75	deride#v#1
+1	0	0.5	0	jest#v#1 joke#v#1
+0	1	0	1	betray#v#6 lead_astray#v#3 deceive#v#2
+0	0	0	0	throw_out#v#5 advance#v#2
+0.25	0	0.25	0	volunteer#v#1
+0.75	0	0.38	0.38	triumph#v#3 crow#v#1 gloat#v#1
+0	1	0	1	catch#v#19
+0.13	0.13	0.13	0.13	accommodate#v#6 oblige#v#3
+0.5	0	0.25	0	dedicate#v#3
+0.5	0	0.75	0	give#v#18 consecrate#v#2 dedicate#v#1 commit#v#2 devote#v#1
+1	0	0.75	0	exculpate#v#1 discharge#v#7 assoil#v#1 acquit#v#1 exonerate#v#1 clear#v#18
+0	0.25	0	0.75	discourage#v#1 deter#v#1
+0.5	0	0.5	0	nurture#v#1 foster#v#3
+0.13	0.13	0	0.25	betray#v#1 bewray#v#1
+0	0.25	0	1	atrophy#v#1
+0	0	0	0	articulate#v#2 word#v#1 formulate#v#3 give_voice#v#1 phrase#v#1
+0	0	0	0	endorse#v#4 indorse#v#4
+0	0	0	0	abstract#v#4
+0.13	0.13	0.25	0.25	punctuate#v#2 accentuate#v#1 emphasise#v#2 stress#v#1 emphasize#v#1 accent#v#1
+0.13	0.13	0.13	0.13	emphasize#v#2 emphasise#v#1 underline#v#1 underscore#v#1
+0	0	0	0	term#v#1

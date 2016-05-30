@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9FA1803E-6F7A-4791-8D69-5DB8B0412EBC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ZGTR_CROSPELLSpellingCheckerApp</RootNamespace>
+    <AssemblyName>ZGTR_CROSPELLSpellingCheckerApp</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DynamicDataDisplay">
+      <HintPath>..\SpellingChecker.cs\bin\Debug\DynamicDataDisplay.dll</HintPath>
+    </Reference>
+    <Reference Include="DynamicDataDisplay.resources">
+      <HintPath>..\SpellingChecker.cs\bin\Debug\DynamicDataDisplay.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="MathNet.Numerics">
+      <HintPath>..\SpellingChecker.cs\bin\Debug\MathNet.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="GUIControllers\GreetingTab\AnimationProvider.cs" />
+    <Compile Include="GUIControllers\GreetingTab\GreetingContainer.cs" />
+    <Compile Include="GUIControllers\GreetingTab\GreetingTabHandler.cs" />
+    <Compile Include="GUIControllers\GreetingTab\HelperGeometry.cs" />
+    <Compile Include="GUIControllers\ImageEngine\ImageContainerPatches.cs" />
+    <Compile Include="GUIControllers\ImageEngine\ImagePatchWindow.xaml.cs">
+      <DependentUpon>ImagePatchWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUIControllers\LanguageIdent\ArabicEnglishDictionary.cs" />
+    <Compile Include="GUIControllers\LanguageIdent\FindingMainTopic.cs" />
+    <Compile Include="GUIControllers\LanguageIdent\LanguageIdentification.cs" />
+    <Compile Include="GUIControllers\LanguageIdent\LanguageIdentificationBi_GramHandler.cs" />
+    <Compile Include="GUIControllers\LanguageIdent\LanguageIdentificationUni-GramHandler.cs" />
+    <Compile Include="GUIControllers\LanguageIdent\WordPrediction.cs" />
+    <Compile Include="GUIControllers\LanguageIdent\WordPredictionBi-Gram.cs" />
+    <Compile Include="GUIControllers\LanguageIdent\WordPredictionTri-Gram.cs" />
+    <Compile Include="GUIControllers\TextEngineTabs\MEDHandler.cs" />
+    <Compile Include="GUIControllers\TextEngineTabs\Porter\PorterHandler.cs" />
+    <Compile Include="GUIControllers\TextEngineTabs\SentHandler.cs" />
+    <Compile Include="GUIControllers\TextEngineTabs\SpellCheckMe\CyberAllTextHandler.cs" />
+    <Compile Include="GUIControllers\TextEngineTabs\SpellCheckMe\CyberTextWindow.xaml.cs">
+      <DependentUpon>CyberTextWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUIControllers\TextEngineTabs\SpellCheckMe\SpellCheckMeHandler.cs" />
+    <Compile Include="GUIControllers\TextEngineTabs\GenomCipherAreaHandler.cs" />
+    <Compile Include="GUIControllers\ImageEngine\ColorTableClasses\ColorTable.cs" />
+    <Compile Include="GUIControllers\ImageEngine\ColorTableClasses\ColorTableTriple.cs" />
+    <Compile Include="GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.xaml.cs">
+      <DependentUpon>ColorTableWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUIControllers\HelperModule.cs" />
+    <Compile Include="GUIControllers\ImageEngine\ImageContainer.cs" />
+    <Compile Include="GUIControllers\ImageEngine\CROSPELLImageTHandler.cs" />
+    <Compile Include="GUIControllers\ImageEngine\ColorTableClasses\Point.cs" />
+    <Compile Include="GUIControllers\TextEngineTabs\ISRI\ISRIHandler.cs" />
+    <Compile Include="GUIControllers\TextEngineTabs\Porter\ExcelFileManager.cs" />
+    <Compile Include="GUIControllers\TextEngineTabs\SpellCheckMe\TextAreaHandler.cs" />
+    <Page Include="ExpressionDark.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="GUIControllers\ImageEngine\ImagePatchWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUIControllers\TextEngineTabs\SpellCheckMe\CyberTextWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="ClassDiagram2.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SpellingChecker.cs\ZGTR_CROSPELLSpellingCheckerLib.csproj">
+      <Project>{FAFEE9CE-E92A-420A-9FE3-F2AF11728795}</Project>
+      <Name>ZGTR_CROSPELLSpellingCheckerLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ImagesSource\imageLeft.JPG" />
+    <Resource Include="ImagesSource\imageRight.JPG" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

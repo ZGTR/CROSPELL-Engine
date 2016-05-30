@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserPreferenceDb>
+  <UserPreference id="tade">
+    <WordPrefered>take</WordPrefered>
+    <Counter>8</Counter>
+  </UserPreference>
+  <UserPreference id="vry">
+    <WordPrefered>very</WordPrefered>
+    <Counter>3</Counter>
+  </UserPreference>
+  <UserPreference id="ths">
+    <WordPrefered>this</WordPrefered>
+    <Counter>3</Counter>
+  </UserPreference>
+  <UserPreference id="المدسة">
+    <WordPrefered>المقدسة</WordPrefered>
+    <Counter>2</Counter>
+  </UserPreference>
+  <UserPreference id="tade">
+    <WordPrefered>made</WordPrefered>
+    <Counter>5</Counter>
+  </UserPreference>
+  <UserPreference id="jst">
+    <WordPrefered>just</WordPrefered>
+    <Counter>1</Counter>
+  </UserPreference>
+  <UserPreference id="tade">
+    <WordPrefered>trade</WordPrefered>
+    <Counter>1</Counter>
+  </UserPreference>
+  <UserPreference id="ths">
+    <WordPrefered>the</WordPrefered>
+    <Counter>1</Counter>
+  </UserPreference>
+  <UserPreference id="اكل">
+    <WordPrefered>بكل</WordPrefered>
+    <Counter>1</Counter>
+  </UserPreference>
+  <UserPreference id="vry">
+    <WordPrefered>dry</WordPrefered>
+    <Counter>1</Counter>
+  </UserPreference>
+</UserPreferenceDb>

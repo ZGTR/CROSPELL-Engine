@@ -1,0 +1,590 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:ZGTR_SpellingCheckerWPFApp.GenomCipherAreaHandler">
+      <Item value="_posLeftSpMiddle" priority="0" />
+      <Item value="MainWindow" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="this" priority="34" />
+      <Item value="TextBlock`0" priority="2" />
+      <Item value="StackPanel`0" priority="3" />
+      <Item value="SolidColorBrush`0" priority="4" />
+      <Item value="new" priority="37" />
+      <Item value="SolidColorBrush" priority="1" />
+      <Item value="Color`0" priority="5" />
+      <Item value="ColorAnimation`0" priority="2" />
+      <Item value="Duration" priority="1" />
+      <Item value="Timeline`0" priority="0" />
+      <Item value="TimeSpan`0" priority="1" />
+      <Item value="cAnimation" priority="2" />
+      <Item value="true" priority="5" />
+      <Item value="RepeatBehavior`0" priority="1" />
+      <Item value="RepeatBehavior" priority="0" />
+      <Item value="if" priority="12" />
+      <Item value="max" priority="0" />
+      <Item value="currentCellVal" priority="0" />
+      <Item value="upperBound" priority="0" />
+      <Item value="List&lt;TextBlock&gt;" priority="1" />
+      <Item value="wordArr" priority="0" />
+      <Item value="return" priority="11" />
+      <Item value="tb" priority="2" />
+      <Item value="list" priority="1" />
+      <Item value="currentCell" priority="7" />
+      <Item value="switch" priority="1" />
+      <Item value="GetTextBlock`0" priority="0" />
+      <Item value="_listOfTbTarget" priority="0" />
+      <Item value="currentCells" priority="2" />
+      <Item value="for" priority="7" />
+      <Item value="CellWrapper`0" priority="1" />
+      <Item value="GroupBox`0" priority="1" />
+      <Item value="groupBox" priority="2" />
+      <Item value="GroupBox" priority="1" />
+      <Item value="StackPanel" priority="0" />
+      <Item value="sp" priority="0" />
+      <Item value="TextBlock" priority="0" />
+      <Item value="tb1" priority="0" />
+      <Item value="Environment`0" priority="4" />
+      <Item value="Text" priority="0" />
+      <Item value="string" priority="7" />
+      <Item value="TextWrapping`0" priority="0" />
+      <Item value="PorterHandler`0" priority="0" />
+      <Item value="mainWindow" priority="7" />
+      <Item value="public" priority="12" />
+      <Item value="PorterHandler" priority="6" />
+      <Item value="try" priority="6" />
+      <Item value="catch" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="tbOut" priority="0" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="listOfWords" priority="0" />
+      <Item value="foreach" priority="1" />
+      <Item value="word" priority="0" />
+      <Item value="SaveFileDialog`0" priority="0" />
+      <Item value="ToList`1" priority="1" />
+      <Item value="ISRIHandler" priority="2" />
+      <Item value="using" priority="0" />
+      <Item value="ISRI`0" priority="0" />
+      <Item value="int" priority="18" />
+      <Item value="iTimer" priority="1" />
+      <Item value="bool" priority="4" />
+      <Item value="else" priority="9" />
+      <Item value="proceed" priority="0" />
+      <Item value="false" priority="4" />
+      <Item value="break" priority="0" />
+      <Item value="FileDialog`0" priority="0" />
+      <Item value="i" priority="4" />
+      <Item value="GetCellDifferenceAndUpdateBT`0" priority="0" />
+      <Item value="iDel" priority="1" />
+      <Item value="protected" priority="2" />
+      <Item value="min" priority="0" />
+      <Item value="j" priority="0" />
+      <Item value="iInsert" priority="0" />
+      <Item value="iSub" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="delCost" priority="0" />
+      <Item value="MEDHandler" priority="0" />
+      <Item value="Bitmap`0" priority="6" />
+      <Item value="null" priority="0" />
+      <Item value="bitmapPatched" priority="1" />
+      <Item value="MEDSmithWatermanAlgo" priority="0" />
+      <Item value="_sBM" priority="2" />
+      <Item value="ColorComponent`0" priority="1" />
+      <Item value="colorComponent" priority="0" />
+      <Item value="bHeight" priority="2" />
+      <Item value="threshold" priority="0" />
+      <Item value="Int16`0" priority="0" />
+      <Item value="substitutionVal" priority="0" />
+      <Item value="dW" priority="0" />
+      <Item value="matchCost" priority="0" />
+      <Item value="algo" priority="1" />
+      <Item value="List" priority="6" />
+      <Item value="cellsList" priority="1" />
+      <Item value="List&lt;Bitmap&gt;" priority="0" />
+      <Item value="Bitmap" priority="2" />
+      <Item value="bWidth" priority="0" />
+      <Item value="currentBM" priority="2" />
+      <Item value="cells" priority="2" />
+      <Item value="unitIntention" priority="0" />
+      <Item value="UnitIntention`0" priority="0" />
+      <Item value="imagePatchFinder" priority="1" />
+      <Item value="ImagePatchFinder" priority="0" />
+      <Item value="tBM" priority="0" />
+      <Item value="Substitution" priority="0" />
+      <Item value="propIndex" priority="0" />
+      <Item value="cellWrapper" priority="4" />
+      <Item value="WeakReference`0" priority="0" />
+      <Item value="height" priority="3" />
+      <Item value="width" priority="0" />
+      <Item value="bitmap" priority="1" />
+      <Item value="static" priority="0" />
+      <Item value="InitArabicEnglishCyperSpell`0" priority="0" />
+      <Item value="_cyperArabic" priority="0" />
+      <Item value="CyperSpell" priority="0" />
+      <Item value="Arabic" priority="1" />
+      <Item value="SpellCheckMeHandler" priority="1" />
+      <Item value="rbTxSMByScallarKM" priority="0" />
+      <Item value="MainWindow`0" priority="4" />
+      <Item value="ExecutionEngineException`0" priority="0" />
+      <Item value="SentHandler`0" priority="0" />
+      <Item value="SentHandler" priority="1" />
+      <Item value="cbTxSMOM" priority="0" />
+      <Item value="engine" priority="0" />
+      <Item value="dict" priority="0" />
+      <Item value="Math`0" priority="0" />
+      <Item value="isFast" priority="4" />
+      <Item value="CyberSpell`0" priority="0" />
+      <Item value="base" priority="0" />
+      <Item value="corpusPath" priority="0" />
+      <Item value="languageId" priority="0" />
+      <Item value="keyboardlang" priority="0" />
+      <Item value="Porter" priority="0" />
+      <Item value="PorterStemmer`0" priority="0" />
+      <Item value="PorterStemmer" priority="0" />
+      <Item value="ISRI" priority="0" />
+      <Item value="ISRIAlgo`0" priority="0" />
+      <Item value="_isriAlgo" priority="0" />
+      <Item value="ISRIAlgo" priority="0" />
+      <Item value="key" priority="0" />
+      <Item value="_dictionary" priority="0" />
+      <Item value="input" priority="0" />
+      <Item value="value" priority="0" />
+      <Item value="String`0" priority="3" />
+      <Item value="allInputText" priority="0" />
+      <Item value="inputText" priority="2" />
+      <Item value="_CyberCurrent" priority="1" />
+      <Item value="char" priority="0" />
+      <Item value="cyberCurrent" priority="0" />
+      <Item value="words" priority="2" />
+      <Item value="Count`1" priority="0" />
+      <Item value="SuggestItem`0" priority="0" />
+      <Item value="currentInputWord" priority="5" />
+      <Item value="RuntimeMethodHandle`0" priority="0" />
+      <Item value="Run" priority="0" />
+      <Item value="runComboBox" priority="1" />
+      <Item value="listOfPredictedWords" priority="2" />
+      <Item value="ComboBox`0" priority="4" />
+      <Item value="ComboBox" priority="0" />
+      <Item value="comboBoxWords" priority="2" />
+      <Item value="newText" priority="0" />
+      <Item value="currentInline" priority="2" />
+      <Item value="Documents" priority="0" />
+      <Item value="InlineUIContainer`0" priority="0" />
+      <Item value="FontFamily" priority="0" />
+      <Item value="Center" priority="0" />
+      <Item value="newEntry" priority="0" />
+      <Item value="Button`0" priority="2" />
+      <Item value="Button" priority="0" />
+      <Item value="bAdd" priority="1" />
+      <Item value="_cyberCurrent" priority="0" />
+      <Item value="bSender" priority="0" />
+      <Item value="CyberAllTextHandler`0" priority="0" />
+      <Item value="cyberAllTextHandler" priority="0" />
+      <Item value="CyberAllTextHandler" priority="0" />
+      <Item value="tbInput" priority="0" />
+      <Item value="Right" priority="0" />
+      <Item value="var" priority="1" />
+      <Item value="Point3D" priority="0" />
+      <Item value="GreetingTabHandler" priority="1" />
+      <Item value="tbCROSPELL" priority="2" />
+      <Item value="Thickness" priority="1" />
+      <Item value="TextEffectCollection" priority="0" />
+      <Item value="NewsStyleUriParser`0" priority="0" />
+      <Item value="FontStyles`0" priority="0" />
+      <Item value="FontWeights`0" priority="0" />
+      <Item value="AnimationProvider`0" priority="0" />
+      <Item value="ColorAnimation" priority="0" />
+      <Item value="Colors`0" priority="1" />
+      <Item value="cCrospellAnim" priority="0" />
+      <Item value="sCrospellBrush" priority="0" />
+      <Item value="language" priority="1" />
+      <Item value="wordCount" priority="1" />
+      <Item value="cbTxSMTopicPrediction" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_SpellingCheckerWPFApp.MainWindow">
+      <Item value="svTxGGenomsArea" priority="1" />
+      <Item value="spTxGCellWrappers" priority="1" />
+      <Item value="spTxPStems" priority="0" />
+      <Item value="tbTxPArea2" priority="0" />
+      <Item value="tbTxIArea2" priority="1" />
+      <Item value="Left" priority="0" />
+      <Item value="Top" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="spImagesOut" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ScrollViewer">
+      <Item value="Width" priority="0" />
+      <Item value="ScrollToHome`0" priority="0" />
+      <Item value="VerticalScrollBarVisibility" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Brush">
+      <Item value="BeginAnimation`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.TextBlock">
+      <Item value="BackgroundProperty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.StackPanel">
+      <Item value="BeginAnimation`0" priority="0" />
+      <Item value="Children" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.StackPanel">
+      <Item value="BackgroundProperty" priority="0" />
+      <Item value="OpacityProperty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Colors">
+      <Item value="Gold" priority="2" />
+      <Item value="LightBlue" priority="0" />
+      <Item value="DarkRed" priority="0" />
+      <Item value="Silver" priority="0" />
+      <Item value="Gray" priority="0" />
+      <Item value="DarkGray" priority="0" />
+      <Item value="Yellow" priority="2" />
+      <Item value="Black" priority="2" />
+      <Item value="Transparent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.SolidColorBrush">
+      <Item value="BeginAnimation`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.SolidColorBrush">
+      <Item value="ColorProperty" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromSeconds`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Animation.ColorAnimation">
+      <Item value="AutoReverse" priority="1" />
+      <Item value="RepeatBehavior" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Animation.RepeatBehavior">
+      <Item value="Forever" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ZGTR_PorterAlgorithmApp.HelperModule">
+      <Item value="WriteDistanceMatrixToFile`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="3" />
+      <Item value="Count" priority="5" />
+      <Item value="ToArray`0" priority="1" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="Reverse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.SpellingCheckerEngine.Algorithms.MEDAlgos.Enums.CellWrapper">
+      <Item value="UnitIntention" priority="2" />
+      <Item value="C2sWord" priority="0" />
+      <Item value="C1tWord" priority="1" />
+      <Item value="CSWord" priority="0" />
+      <Item value="CTWord" priority="0" />
+      <Item value="D" priority="0" />
+      <Item value="I" priority="3" />
+      <Item value="J" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Text" priority="7" />
+      <Item value="TextWrapping" priority="0" />
+      <Item value="Height" priority="0" />
+      <Item value="Initialized" priority="0" />
+      <Item value="Inlines" priority="4" />
+      <Item value="ClearValue`0" priority="0" />
+      <Item value="TextAlignment" priority="0" />
+      <Item value="FontSize" priority="0" />
+      <Item value="Background" priority="3" />
+      <Item value="Margin" priority="1" />
+      <Item value="TextDecorations" priority="0" />
+      <Item value="TextEffects" priority="0" />
+      <Item value="FontWeight" priority="1" />
+      <Item value="FontStyle" priority="0" />
+      <Item value="Foreground" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="NewLine" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.SpellingCheckerEngine.Algorithm.UnitIntention">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.GroupBox">
+      <Item value="Content" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.UIElementCollection">
+      <Item value="Add`0" priority="3" />
+      <Item value="Clear`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.TextWrapping">
+      <Item value="Wrap" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.PorterHandler.PorterHandler">
+      <Item value="ClearAreaInput`0" priority="0" />
+      <Item value="MainWindow" priority="3" />
+      <Item value="UploadExcelFile`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.SaveFileDialog">
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="8" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.ISRI.ISRIHandler">
+      <Item value="MainWindow" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Brushes">
+      <Item value="LightBlue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Delete`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_SpellingCheckerWPFApp.GUIControllers.CROSPELLImageTHandler">
+      <Item value="MainWindow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.SpellingCheckerEngine.Algorithm.MEDRegularWithBTHeuristics">
+      <Item value="PtrBTArr" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpellingChecker.ImagesProcessingEngine.ImageHelperModule">
+      <Item value="GetStringStreamFromBitmapCharsList`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpellingChecker.SpellingCheckerEngine.Algorithms.MEDAlgos.MEDSmithWatermanAlgo">
+      <Item value="GetMED`0" priority="0" />
+      <Item value="GetBackTraceArray`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Bitmap">
+      <Item value="Width" priority="3" />
+      <Item value="Height" priority="3" />
+      <Item value="Save`0" priority="2" />
+      <Item value="SetPixel`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_CROSPELLSpellingCheckerLib.ImagesProcessingEngine.ImagePatchFinder">
+      <Item value="GetPatchedAreaBitmap`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpellingChecker.ImagesProcessingEngine.ColorComponent">
+      <Item value="G" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpellingChecker.SpellingCheckerEngine.Algorithm.UnitIntention">
+      <Item value="Deletion" priority="6" />
+      <Item value="Insertion" priority="5" />
+      <Item value="Substitution" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="FromArgb`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpellingChecker.Keyboard.KeyboardLanguage">
+      <Item value="English" priority="2" />
+      <Item value="Arabic" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.CheckBox">
+      <Item value="IsChecked" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.RadioButton">
+      <Item value="IsChecked" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="UTF8" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.TextEngineTabs.SentHandler">
+      <Item value="GetEmotionString`0" priority="0" />
+      <Item value="MainWindow" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_CROSPELLSpellingCheckerLib.TextProcessingEngine.OM.Evaluation">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_CROSPELLSpellingCheckerApp.MainWindow">
+      <Item value="tbInputAll" priority="3" />
+      <Item value="rbTxSMNormalSpeed" priority="0" />
+      <Item value="GeonGenomCipherAreaHandler" priority="0" />
+      <Item value="tbTxGWordSource" priority="0" />
+      <Item value="cbTxSMEnableAutoCyber" priority="1" />
+      <Item value="SpellCheckMeHandler" priority="4" />
+      <Item value="tblCTWTextArea" priority="2" />
+      <Item value="VPGreeting" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Ceiling`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_SpellingCheckerWPFApp.GUIControllers.SpellCheckMeHandler">
+      <Item value="MainWindow" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_CROSPELLSpellingCheckerLib.SpellingCheckerEngine.Algorithms.CyberSpell">
+      <Item value="GetCorrectSpellSuggestionsForWord`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_CROSPELLSpellingCheckerLib.TextProcessingEngine.SpellingCheckerEngine.Algorithms.CyberSpellMod">
+      <Item value="_isriAlgo" priority="0" />
+      <Item value="_porterStemmer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_CROSPELLSpellingCheckerLib.TextProcessingEngine.ISRI.ISRIAlgo">
+      <Item value="Stem`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_CROSPELLSpellingCheckerLib.TextProcessingEngine.Porter.PorterStemmer">
+      <Item value="GetStem`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="TryGetValue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_SpellingCheckerWPFApp.GenomeCipherAreaHandler">
+      <Item value="MainWindow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.TextEngineTabs.SpellCheckMe.CyberTextWindow">
+      <Item value="tblCTWTextArea" priority="5" />
+      <Item value="MainWindow" priority="1" />
+      <Item value="Close`0" priority="0" />
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_CROSPELLSpellingCheckerLib.TextProcessingEngine.SpellingCheckerEngine.Algorithms.CyberSpell">
+      <Item value="GetCorrectSpellSuggestionsForWord`0" priority="0" />
+      <Item value="CreateDictionaryEntry`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_CROSPELLSpellingCheckerLib.TextProcessingEngine.SpellingCheckerEngine.Algorithms.SuggestItem">
+      <Item value="Term" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Documents.InlineCollection">
+      <Item value="Add`0" priority="3" />
+      <Item value="Count" priority="1" />
+      <Item value="ElementAt`1" priority="0" />
+      <Item value="Reverse`1" priority="0" />
+      <Item value="Clear`0" priority="0" />
+      <Item value="AddRange`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ComboBox">
+      <Item value="Items" priority="2" />
+      <Item value="SelectedIndex" priority="0" />
+      <Item value="SelectedItem" priority="0" />
+      <Item value="Height" priority="0" />
+      <Item value="FontSize" priority="0" />
+      <Item value="FontFamily" priority="0" />
+      <Item value="VerticalAlignment" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Add`0" priority="1" />
+      <Item value="CurrentItem" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Documents.Inline">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Documents.InlineUIContainer">
+      <Item value="Child" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Documents.Run">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="Content" priority="1" />
+      <Item value="Click" priority="0" />
+      <Item value="Parent" priority="0" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.TextEngineTabs.SpellCheckMe.CyberAllTextHandler">
+      <Item value="SetTextBlockText`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.TextAlignment">
+      <Item value="Left" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.GreetingTab.GreetingTabHandler">
+      <Item value="MainWindow" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.FontStyles">
+      <Item value="Oblique" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.FontWeights">
+      <Item value="Bold" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/f:HelperModule.cs" caret="3001" fromTop="9" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:TextProcessingEngine/d:OM/f:Evaluation.cs" caret="0" fromTop="0" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:TextProcessingEngine/d:OM/f:OMEngine.cs" caret="0" fromTop="0" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:TextProcessingEngine/d:OM/f:SenPair.cs" caret="0" fromTop="0" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:TextEngineTabs/d:SpellCheckMe/f:CyberTextWindow.xaml" caret="561" fromTop="4" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:TextEngineTabs/d:SpellCheckMe/f:CyberTextWindow.xaml.cs" caret="804" fromTop="18" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:TextEngineTabs/f:SentHandler.cs" caret="0" fromTop="0" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:GreetingTab/f:HelperGeometry.cs" caret="2019" fromTop="35" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:HelperModules/f:HelperModule.cs" caret="246" fromTop="1" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:LanguageIdent/f:LanguageIdentification.cs" caret="635" fromTop="16" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:LanguageIdent/f:LanguageIdentificationUni-GramHandler.cs" caret="567" fromTop="10" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:TextEngineTabs/d:SpellCheckMe/f:SpellCheckMeHandler.cs" caret="3304" fromTop="15" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:GreetingTab/f:GreetingTabHandler.cs" caret="0" fromTop="0" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:GreetingTab/f:GreetingContainer.cs" caret="4669" fromTop="17" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:GreetingTab/f:AnimationProvider.cs" caret="10195" fromTop="24" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:TextProcessingEngine/d:SpellingCheckerEngine/d:Algorithms/d:MEDAlgos/d:BiologicalComp/f:MEDSmithWatermanAlgo.cs" caret="0" fromTop="0" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:TextEngineTabs/d:SpellCheckMe/f:CyberAllTextHandler.cs" caret="0" fromTop="0" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:ImageEngine/f:ImageContainerPatches.cs" caret="6622" fromTop="5" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:ImageEngine/f:CROSPELLImageTHandler.cs" caret="0" fromTop="0" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:TextProcessingEngine/d:SpellingCheckerEngine/d:Algorithms/f:CyberSpell.cs" caret="5168" fromTop="23" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml.cs" caret="2770" fromTop="24" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:TextProcessingEngine/d:SpellingCheckerEngine/d:UserPref/f:XmlSerializerHandler.cs" caret="1084" fromTop="30" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:HelperModules/f:ObjectSerializer.cs" caret="1203" fromTop="27" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:Databases/d:KeyboardMaps/f:KeyboardMapArabic.xml" caret="298" fromTop="22" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:Databases/d:KeyboardMaps/f:KeyboardMapEnglish.xml" caret="1224" fromTop="32" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:Keyboard/f:KeyboardHandler.cs" caret="50" fromTop="1" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:Keyboard/f:XMLKeyboardParser.cs" caret="1630" fromTop="30" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:ExpressionDark.xaml" caret="229971" fromTop="1" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:App.xaml" caret="327" fromTop="4" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="60257" fromTop="4" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:TextProcessingEngine/d:SpellingCheckerEngine/d:Algorithms/f:CyberSpell.cs" caret="4137" fromTop="21" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:TextProcessingEngine/d:SpellingCheckerEngine/d:Algorithms/f:CyberSpell.cs" caret="4137" fromTop="9" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:TextProcessingEngine/d:SpellingCheckerEngine/d:Algorithms/f:CyberSpell.cs" caret="4885" fromTop="21" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:TextProcessingEngine/d:SpellingCheckerEngine/d:Algorithms/f:CyberSpell.cs" caret="4885" fromTop="30" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:TextProcessingEngine/d:SpellingCheckerEngine/d:Algorithms/f:CyberSpell.cs" caret="5758" fromTop="28" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:TextProcessingEngine/d:SpellingCheckerEngine/d:Algorithms/f:CyberSpell.cs" caret="5500" fromTop="22" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:TextProcessingEngine/d:SpellingCheckerEngine/d:Algorithms/f:CyberSpell.cs" caret="5325" fromTop="21" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:TextProcessingEngine/d:SpellingCheckerEngine/d:Algorithms/f:CyberSpell.cs" caret="4885" fromTop="24" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:GreetingTab/f:AnimationProvider.cs" caret="9977" fromTop="21" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml.cs" caret="12989" fromTop="17" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="10786" fromTop="4" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml.cs" caret="1473" fromTop="10" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml.cs" caret="2113" fromTop="20" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/d:GUIControllers/d:GreetingTab/f:AnimationProvider.cs" caret="9147" fromTop="5" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml.cs" caret="10376" fromTop="17" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="7997" fromTop="4" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="6827" fromTop="5" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml" caret="8846" fromTop="5" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml.cs" caret="10065" fromTop="16" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml.cs" caret="9811" fromTop="10" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml.cs" caret="10377" fromTop="24" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml.cs" caret="2724" fromTop="17" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml.cs" caret="2800" fromTop="21" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml.cs" caret="2999" fromTop="17" />
+      <File id="9FA1803E-6F7A-4791-8D69-5DB8B0412EBC/f:MainWindow.xaml.cs" caret="3078" fromTop="21" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:TextProcessingEngine/d:SpellingCheckerEngine/d:Algorithms/f:CyberSpell.cs" caret="4041" fromTop="10" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:HelperModules/f:ObjectSerializer.cs" caret="557" fromTop="4" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:HelperModules/f:ObjectSerializer.cs" caret="875" fromTop="16" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:HelperModules/f:ObjectSerializer.cs" caret="1203" fromTop="26" />
+      <File id="FAFEE9CE-E92A-420A-9FE3-F2AF11728795/d:Keyboard/f:XMLKeyboardParser.cs" caret="1630" fromTop="30" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

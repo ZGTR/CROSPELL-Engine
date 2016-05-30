@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ZGTR_PorterAlgorithmApp.HelperModule" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAACAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>HelperModules\HelperModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerLib.HelperModules.ObjectSerializer" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACBIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HelperModules\ObjectSerializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.ImagesProcessingEngine.ImageHelperModule" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAIAAAAAIAAAAAAAAAAEAAAAAAEAAAAAACAAAAA=</HashCode>
+      <FileName>ImagesProcessingEngine\ImageHelperModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.ImagesProcessingEngine.ImageUnitWrapper" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAQIAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImagesProcessingEngine\ImageUnitWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerLib.ImagesProcessingEngine.ImageChecker" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAgAAAQQBABUJABECAIAwACAAACAAAABAKAAAAgAgA=</HashCode>
+      <FileName>ImagesProcessingEngine\ImageChecker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerLib.ImagesProcessingEngine.ImagePatchFinder" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQCAAAAAIAAACAAAAAAAAAAAAAAIAAAAAAAAAAABA=</HashCode>
+      <FileName>ImagesProcessingEngine\ImagePatchFinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.cs.KeyboardHandler" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIABAAAAAAABAAAAAAAEAAAgAAAAAAIAAAAA=</HashCode>
+      <FileName>Keyboard\KeyboardHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.cs.Program" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.Keyboard.KeyInfo" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgABAAAACAAAAAAAAAAAAQAAABAAAAAAAAAAAIEAA=</HashCode>
+      <FileName>Keyboard\KeyInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.Keyboard.XMLKeyboardParser" Collapsed="true">
+    <Position X="18.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Keyboard\XMLKeyboardParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerLib.TextProcessingEngine.ISRI.ISRIAlgo" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgCAAAABAABAAAgCAAaIAACIAAGBgCEAAACAAQIAEAA=</HashCode>
+      <FileName>TextProcessingEngine\ISRI\ISRIAlgo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerLib.LangIdent.Language" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAEARCEgAAAgEAgVICABAAAAgAgAEAQAAAADAAAAEA=</HashCode>
+      <FileName>TextProcessingEngine\LangIdent\Language.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerLib.TextProcessingEngine.OM.OMEngine" Collapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAQAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextProcessingEngine\OM\OMEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerLib.TextProcessingEngine.OM.SenPair" Collapsed="true">
+    <Position X="18.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextProcessingEngine\OM\SenPair.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerLib.TextProcessingEngine.Porter.PorterStemmer" Collapsed="true">
+    <Position X="14.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABAAAAAAACAAEACAABCIAAAAAACEAYAGAAAIIASA=</HashCode>
+      <FileName>TextProcessingEngine\Porter\PorterStemmer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerLib.SpellingCheckerEngine.Algorithms.CyberSpell" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAQJAKBAATAAAAIAgAAAAAgAAAAAAQAAAIBAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\CyberSpell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerLib.SpellingCheckerEngine.Algorithms.DictionaryItem" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAhAAAAAAAAAAQAIAAAAAAAAAEAAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\DictionaryItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerLib.SpellingCheckerEngine.Algorithms.EditItem" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIBAEAAAAAAAAAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\EditItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerLib.SpellingCheckerEngine.Algorithms.SuggestItem" Collapsed="true">
+    <Position X="20" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAQAAAAAAIBAEAAAAAAAAAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\SuggestItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerLib.SpellingCheckerEngine.Algorithms.SuggestItemsComparer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\SuggestItemsComparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerLib.SpellingCheckerEngine.Algorithms.MEDAlgos.BiologicalComp.MEDNeedlemanWunschAlgo" Collapsed="true">
+    <Position X="7" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IDAKyQAAAAAAAgAAAAAIIEABAAAAQAAAAAAAAACAAJA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\BiologicalComp\MEDNeedlemanWunschAlgo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.SpellingCheckerEngine.Algorithm.MEDNeedlemanWunschAlgoMod" Collapsed="true">
+    <Position X="7" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IBAAAAAAACAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\BiologicalComp\MEDNeedlemanWunschAlgoMod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.SpellingCheckerEngine.Algorithm.MEDRegularWithBT" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAi2QAAAAAAAgAAAAAAAAABAAAAQAAAAAAAAACAIBA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\MEDBasics\MEDRegularWithBT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.SpellingCheckerEngine.Algorithm.MEDRegularWithBTHeuristics" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAEAIAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\MEDBasics\MEDRegularWithBTHeuristics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.SpellingCheckerEngine.Algorithms.MEDAlgos.MEDSmithWatermanAlgo" Collapsed="true">
+    <Position X="7" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\BiologicalComp\MEDSmithWatermanAlgo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.SpellingCheckerEngine.Algorithms.MEDAlgos.MEDStalkerWithBT" Collapsed="true">
+    <Position X="3" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\ImageProcessingAlgos\MEDStalkerWithBT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.SpellingCheckerEngine.Algorithms.MEDAlgos.MEDStalkerWithBTEnhanced" Collapsed="true">
+    <Position X="3" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\ImageProcessingAlgos\MEDStalkerWithBTEnhanced.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.SpellingCheckerEngine.Algorithms.MEDAlgos.MEDStalkerWithoutBT" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgwQAAAAAAAgAACAAIIEABAAAAAAAAAEAAAACAAJA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\ImageProcessingAlgos\MEDStalkerWithoutBT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.SpellingCheckerEngine.Algorithms.MEDAlgos.MEDStalkerWithoutBTEnhanced" Collapsed="true">
+    <Position X="3" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\ImageProcessingAlgos\MEDStalkerWithoutBTEnhanced.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.SpellingCheckerEngine.Algorithms.MEDAlgos.MEDRegular" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\MEDBasics\MEDRegular.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.SpellingCheckerEngine.Algorithms.MEDAlgos.Enums.CellWrapper" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAABAQAAAAAAAAAAAAAAAAAAAAAAAAAABCABAAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\Enums\CellWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerLib.SpellingCheckerEngine.Algorithms.MEDAlgos.MEDBasics.MEDBase" Collapsed="true">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIIEAAAAAAAAAAAAAAABAAAIA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\MEDBasics\MEDBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.SpellingCheckerEngine.UserPreference" Collapsed="true">
+    <Position X="14.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQBAQAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\UserPref\UserPreference.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellingChecker.SpellingCheckerEngine.UserPref.UserPreferenceHandler" Collapsed="true">
+    <Position X="16.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAABAAAEgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\UserPref\UserPreferenceHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerLib.SpellingCheckerEngine.UserPref.XmlSerializerHandler" Collapsed="true">
+    <Position X="20" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\UserPref\XmlSerializerHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SpellingChecker.ImagesProcessingEngine.ColorComponent" Collapsed="true">
+    <Position X="14.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAEAAQA=</HashCode>
+      <FileName>ImagesProcessingEngine\ColorComponent.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SpellingChecker.ImagesProcessingEngine.MEDAlgorithmChosen" Collapsed="true">
+    <Position X="13" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAABAAIAAAAAAAAAAAAAAAACAAEAAAAAA=</HashCode>
+      <FileName>ImagesProcessingEngine\MEDAlgorithmChosen.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SpellingChecker.ImagesProcessingEngine.OrderingByColorOption" Collapsed="true">
+    <Position X="14.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAQAAAAAAAAAAAAQCAAAAAAAIEAAgAAAAAAAA=</HashCode>
+      <FileName>ImagesProcessingEngine\OrderingByColorOption.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SpellingChecker.Keyboard.KeyboardLanguage" Collapsed="true">
+    <Position X="20" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABBAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Keyboard\KeyboardLanguage.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ZGTR_CROSPELLSpellingCheckerLib.TextProcessingEngine.OM.Evaluation" Collapsed="true">
+    <Position X="16.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAAAAMgAAAAAAAABAAAAAAAAISAAAQAAAAAAAAE=</HashCode>
+      <FileName>TextProcessingEngine\OM\Evaluation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ZGTR_CROSPELLSpellingCheckerLib.TextProcessingEngine.OM.EvaluationNeg" Collapsed="true">
+    <Position X="18.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACBAAAAACAAAAAAAAAAAAAIAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>TextProcessingEngine\OM\EvaluationNeg.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ZGTR_CROSPELLSpellingCheckerLib.SpellingCheckerEngine.Algorithms.SuggestionsOrdering" Collapsed="true">
+    <Position X="16.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAIAAAAAAAAAAAAIAAAAQAAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\SuggestionsOrdering.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SpellingChecker.SpellingCheckerEngine.Algorithm.BackTracePointer" Collapsed="true">
+    <Position X="13" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAQAAAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\Enums\BackTracePointer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SpellingChecker.SpellingCheckerEngine.Algorithm.UnitIntention" Collapsed="true">
+    <Position X="18.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>TextProcessingEngine\SpellingCheckerEngine\Algorithms\MEDAlgos\Enums\UnitIntention.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

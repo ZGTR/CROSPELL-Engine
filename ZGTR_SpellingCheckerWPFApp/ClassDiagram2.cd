@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ZGTR_SpellingCheckerWPFApp.App" Collapsed="true">
+    <Position X="10" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_SpellingCheckerWPFApp.GenomeCipherAreaHandler" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAgMIAAGAAQIkAACEQAEAAwAAAEAgAAAAgAAgAgAAIA=</HashCode>
+      <FileName>GUIControllers\TextEngineTabs\GenomeCipherAreaHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.HelperModule" Collapsed="true">
+    <Position X="5.75" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAgAAAACAAACAQAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>GUIControllers\HelperModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.ImageContainer" Collapsed="true">
+    <Position X="5.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAoIAAAAQAAAAAAACABAAAOBAAAUAAAAAAAAAAAQAA=</HashCode>
+      <FileName>GUIControllers\ImageEngine\ImageContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.ImageContainerPatches" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAoIAAAAQCAAAAAICABAgAOBAAA0AAAAAAAAAAAQAA=</HashCode>
+      <FileName>GUIControllers\ImageEngine\ImageContainerPatches.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_SpellingCheckerWPFApp.GUIControllers.ColorTableWindow" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAASAAAAAQgAAEAAAAAAAAAAEAAAQAQAAAIAAAAAQAA=</HashCode>
+      <FileName>GUIControllers\ImageEngine\ColorTableClasses\ColorTableWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_SpellingCheckerWPFApp.GUIControllers.Point" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAYBA=</HashCode>
+      <FileName>GUIControllers\ImageEngine\ColorTableClasses\Point.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ZGTR_SpellingCheckerWPFApp.GUIControllers.CROSPELLImageTHandler" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgBACAABEAIAAAAABAwGAAAABAAAAAABADAAIAAAAAA=</HashCode>
+      <FileName>GUIControllers\ImageEngine\CROSPELLImageTHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_SpellingCheckerWPFApp.GUIControllers.SpellCheckMeHandler" Collapsed="true">
+    <Position X="3" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAgAQEQgAiACQgEIqAGCAAAMQBAAgIAEAAQAAE=</HashCode>
+      <FileName>GUIControllers\TextEngineTabs\SpellCheckMe\SpellCheckMeHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.ImageEngine.ImagePatchWindow" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAFAAAAAAAAAAAQAABBEAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GUIControllers\ImageEngine\ImagePatchWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.LanguageIdentification.ArabicEnglishDictionary" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CCAAAAAAAAAAAAAAAAAEAAAAgAAQAAAAAFIAAAAAAAI=</HashCode>
+      <FileName>GUIControllers\LanguageIdent\ArabicEnglishDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.LanguageIdentification.FindingMainTopic" Collapsed="true">
+    <Position X="3" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAIAAEAAAAAAQAAAAJAAAAAAAAAAA=</HashCode>
+      <FileName>GUIControllers\LanguageIdent\FindingMainTopic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.LanguageIdentification.LanguageIdentification" Collapsed="true">
+    <Position X="0.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgAACAIAAAAAAAEAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GUIControllers\LanguageIdent\LanguageIdentification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.LanguageIdentification.LanguageIdentificationBi_GramHandler" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAgAAAAAAgAIAAEAAAAAAQAAAAIAAIAAAIAAAA=</HashCode>
+      <FileName>GUIControllers\LanguageIdent\LanguageIdentificationBi_GramHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.LanguageIdentification.LanguageIdentificationUni_GramHandler" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAgAAAAAAgAIAAEAAAAAAQAAAAIAAIAAAIAAAA=</HashCode>
+      <FileName>GUIControllers\LanguageIdent\LanguageIdentificationUni-GramHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.LanguageIdentification.WordPrediction" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAQAEAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GUIControllers\LanguageIdent\WordPrediction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.LanguageIdentification.WordPredictionBi_Gram" Collapsed="true">
+    <Position X="3" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAEAAAAgAIAAEAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>GUIControllers\LanguageIdent\WordPredictionBi-Gram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.LanguageIdentification.WordPredictionTri_Gram" Collapsed="true">
+    <Position X="3" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAEAAAAgAIAAEAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>GUIControllers\LanguageIdent\WordPredictionTri-Gram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.ISRI.ISRIHandler" Collapsed="true">
+    <Position X="3" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAABAAAAAAAgAAEAAAAACQAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>GUIControllers\TextEngineTabs\ISRI\ISRIHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.TextEngineTabs.MEDHandler" Collapsed="true">
+    <Position X="3" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gQgMMAAGAABMkBATgQAEAAwAAAEAmAAAEgAAAAgAIII=</HashCode>
+      <FileName>GUIControllers\TextEngineTabs\MEDHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.TextEngineTabs.SentHandler" Collapsed="true">
+    <Position X="0.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAQAAAA=</HashCode>
+      <FileName>GUIControllers\TextEngineTabs\SentHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.PorterHandler.ExcelFileManager" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>GUIControllers\TextEngineTabs\Porter\ExcelFileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.GUIControllers.PorterHandler.PorterHandler" Collapsed="true">
+    <Position X="3" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAABgABAAAAAABACAEAAAAACAAAAMEBQAAAAAAAAA=</HashCode>
+      <FileName>GUIControllers\TextEngineTabs\Porter\PorterHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.MainWindow" Collapsed="true">
+    <Position X="8" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>FoFoAACVAEYgBACEAAiMhAIaASgyYEIEQCDSAqADCGA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.Properties.Resources" Collapsed="true">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZGTR_CROSPELLSpellingCheckerApp.Properties.Settings" Collapsed="true">
+    <Position X="10" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

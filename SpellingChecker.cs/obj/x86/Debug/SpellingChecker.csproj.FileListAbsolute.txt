@@ -1,0 +1,8 @@
+C:\Users\ZGTR\Documents\visual studio 2010\Projects\SpellingChecker.cs\SpellingChecker.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Documents\visual studio 2010\Projects\SpellingChecker.cs\SpellingChecker.cs\obj\x86\Debug\SpellingChecker.cs.exe
+C:\Users\ZGTR\Documents\visual studio 2010\Projects\SpellingChecker.cs\SpellingChecker.cs\bin\Debug\SpellingChecker.cs.exe
+C:\Users\ZGTR\Documents\visual studio 2010\Projects\SpellingChecker.cs\SpellingChecker.cs\bin\Debug\SpellingChecker.cs.pdb
+C:\Users\ZGTR\Documents\visual studio 2010\Projects\SpellingChecker.cs\SpellingChecker.cs\obj\x86\Debug\SpellingChecker.cs.pdb
+C:\Users\ZGTR\Documents\visual studio 2010\Projects\SpellingChecker.cs\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapArabic.xml
+C:\Users\ZGTR\Documents\visual studio 2010\Projects\SpellingChecker.cs\SpellingChecker.cs\bin\Debug\Databases\KeyboardMaps\KeyboardMapEnglish.xml
+C:\Users\ZGTR\Documents\visual studio 2010\Projects\SpellingChecker.cs\SpellingChecker.cs\bin\Debug\Databases\UserPreferenceDb\UserPreferenceDb.xml

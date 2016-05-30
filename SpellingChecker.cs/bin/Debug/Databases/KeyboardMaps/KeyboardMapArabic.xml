@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KeyboardMap>
+  <KeyboardRow RowNum="0">
+    <KeyboardRowKeys Layer="0" ShiftEnabled="false">
+      <![CDATA[ذ
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+-
+=]]>
+    </KeyboardRowKeys>
+    <KeyboardRowKeys Layer="1" ShiftEnabled="true">
+      <![CDATA[ّ
+!
+@
+#
+$
+%
+^
+&
+*
+)
+(
+_
++]]>
+    </KeyboardRowKeys>
+  </KeyboardRow>
+
+  <KeyboardRow RowNum="1">
+    <KeyboardRowKeys Layer="0" ShiftEnabled="false">
+      <![CDATA[ض
+ص
+ث
+ق
+ف
+غ
+ع
+ه
+خ
+ح
+ج
+د]]>
+    </KeyboardRowKeys>
+    <KeyboardRowKeys Layer="1" ShiftEnabled="true">
+      <![CDATA[َ
+ً
+ُ
+ٌ
+لإ
+إ
+‘
+÷
+×
+؛
+<
+>]]>
+    </KeyboardRowKeys>
+  </KeyboardRow>
+
+  <KeyboardRow RowNum="2">
+    <KeyboardRowKeys Layer="0" ShiftEnabled="false">
+      <![CDATA[ش
+س
+ي
+ب
+ل
+ا
+ت
+ن
+م
+ك
+ط
+\]]>
+    </KeyboardRowKeys>
+    <KeyboardRowKeys Layer="1" ShiftEnabled="true">
+      <![CDATA[ِ
+ٍ
+]
+[
+لأ
+أ
+ـ
+،
+/
+:
+"
+|]]>
+    </KeyboardRowKeys>
+  </KeyboardRow>
+
+  <KeyboardRow RowNum="2">
+    <KeyboardRowKeys Layer="0" ShiftEnabled="false">
+      <![CDATA[\
+ئ
+ء
+ؤ
+ر
+لا
+ى
+ة
+و
+ز
+ظ]]>
+    </KeyboardRowKeys>
+    <KeyboardRowKeys Layer="1" ShiftEnabled="true">
+      <![CDATA[|
+~
+ْ
+}
+{
+لآ
+آ
+’
+,
+.
+؟]]>
+    </KeyboardRowKeys>
+  </KeyboardRow>
+
+</KeyboardMap>
